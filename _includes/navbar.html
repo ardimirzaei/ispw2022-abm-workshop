@@ -42,6 +42,8 @@
     {% comment %} Collapsible items start here. {% endcomment %}
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
+        {% comment %} Link to Home page {% endcomment %}
+        <li><a href="{{ site.training_home }}">Home</a></li>
 
 	      {% comment %} Always show code of conduct. {% endcomment %}
         <li><a href="{{ page.root }}{% link CODE_OF_CONDUCT.md %}">Code of Conduct</a></li>
