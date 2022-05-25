@@ -7,16 +7,16 @@ title: About
 
 ## Ardalan (Ardi) Mirzaei
 <figure>
-  <img src="{{ page.root }}/fig/Ardi45.jpg" style="margin:10px;width:40px align='right' "/>
-  <figcaption> Dr Ardi Mirzaei</figcaption>
+  <img src="{{ page.root }}/fig/Ardi45.jpg" style="margin:10px;width:128px;height:128px;" width="500" height="600" align="right"/>
+  <figcaption> Ardi Mirzaei</figcaption>
 </figure><br>
 
-Dr Ardi Mirzaei BPharm, MPhil, GradCertEdstud (Higher Ed) is a registered pharmacist and PhD graduate who studied patients’ health information-seeking behaviour. Ardi has a passion for applying machine learning and deep learning methods to transform healthcare and streamline healthcare processes. He teaches students and academics the coding languages of Python and R for data science and analysis. As the state coordinator, he also organises training for pharmacy interns. His masters’ work focused on marketing and the influence of service quality in community pharmacies. As a part of FIP, he is a member of the Health and Medicines Information Section and the FIP Technology Forum.
+Ardi Mirzaei BPharm, MPhil, GradCertEdstud (Higher Ed) is a registered pharmacist and PhD graduate who studied patients’ health information-seeking behaviour. Ardi has a passion for applying machine learning and deep learning methods to transform healthcare and streamline healthcare processes. He teaches students and academics the coding languages of Python and R for data science and analysis. As the state coordinator, he also organises training for pharmacy interns. His masters’ work focused on marketing and the influence of service quality in community pharmacies. As a part of FIP, he is a member of the Health and Medicines Information Section and the FIP Technology Forum.
 
 
 ## Carl Schneider
 <figure>
-  <img src="{{ page.root }}/fig/CarlSchneider.jpg" style="margin:10px;width:600px"/>
+  <img src="{{ page.root }}/fig/CarlSchneider.jpg" width="100" height="30" />
   <figcaption> Dr Carl Schneider</figcaption>
 </figure><br>
 
