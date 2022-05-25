@@ -3,10 +3,10 @@ title: "Introduction to complex systems"
 teaching: 10
 exercises: 0
 questions:
-- "Who are the Sydney Informatics Hub?"
-- "How do you make your Python faster?"
+- "What is a complex system?"
+- "What are the characteristics of a complex system?"
 objectives:
-- "Understand the Accelerated Python ecosystem."
+- "Identify characteristics of a complex system"
 keypoints:
 - "SIH is availble to researchers to help them research!"
 - "Many ways to make Python go faster."

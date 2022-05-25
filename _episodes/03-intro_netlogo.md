@@ -3,9 +3,10 @@ title: "Introduction to NetLogo "
 teaching: 10
 exercises: 0
 questions:
-- "How can you scale up beyond your local machine?"
+- "What are the different tools used to build ABMs"
 objectives:
-- "Refresh how to connect to Artemis HPC"
+- "Increased awareness of the tools used to build ABMs "
+- "Describe the steps for development of an agent-based model "
 keypoints:
 - "Several methods and tools to connect to a remote machine"
 - "Get access to more resources than your local computer"

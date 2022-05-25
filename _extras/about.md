@@ -4,21 +4,25 @@ title: About
 <!-- {% include carpentries.html %} -->
 
 <br>
-**[The Sydney Informatics Hub (SIH)]({{ site.sih_site }})** is a [Core Research Facility](https://sydney.edu.au/research/facilities.html) of the University of Sydney. SIH provides support, training, and expertise on research data, analyses and computing for research staff, students and affiliates of the University. We deliver policies, systems, advice, engineering and training to research staff, students and affiliates of the University.
 
-Researchers can access SIH's services by completing an [assistance form]({{ site.sih_site }}/help), attending [training courses]({{ site.sih_site }}/training/) or contacting [sih.info@sydney.edu.au](mailto:sih.info@sydney.edu.au) for more information.
+## Ardalan (Ardi) Mirzaei
+<figure>
+  <img src="{{ page.root }}/fig/Ardi45.png" style="margin:10px;width:40px align='right' "/>
+  <figcaption> Dr Ardi Mirzaei</figcaption>
+</figure><br>
 
-### Our Services
+Dr Ardi Mirzaei BPharm, MPhil, GradCertEdstud (Higher Ed) is a registered pharmacist and PhD graduate who studied patients’ health information-seeking behaviour. Ardi has a passion for applying machine learning and deep learning methods to transform healthcare and streamline healthcare processes. He teaches students and academics the coding languages of Python and R for data science and analysis. As the state coordinator, he also organises training for pharmacy interns. His masters’ work focused on marketing and the influence of service quality in community pharmacies. As a part of FIP, he is a member of the Health and Medicines Information Section and the FIP Technology Forum.
 
-The Sydney Informatics Hub provide a wide range of services surrounding data and computation including:
 
-* [Research data management]({{ site.sih_site }}/rdm/) delivering support and training for data management, processes and platforms.
-* [Data analytics]({{ site.sih_site }}/services/data-science/) providing expertise and support in data analytics and data science.
-* [Research computing]({{ site.sih_site }}/services/artemis/) providing support and training for research computing infrastructure including the University's High Performance Computing cluster and Virtual Research Desktop services.
-* [Statistical expertise]({{ site.sih_site }}/services/statistics/) providing statistical consulting services.
-* [Bioinformatics]({{ site.sih_site }}/services/bioinformatics/) providing bioinformatics support, training, and software.
-* [Training]({{ site.sih_site }}/training/) delivering training courses in data capture and data management, programming in R/Matlab/Python, visualisation, research computing, GPU computing and deep learning, bioinformatics, and statistics.
-* [Hacky Hour]({{ site.sih_site }}/hackyhour/) a monthly meetup bringing together a community of data enthusiasts where we exchange knowledge, seek advice, and meet like-minded people. We provide mentors from SIH and departments from across the University.
+## Carl Schneider
+<figure>
+  <img src="{{ page.root }}/fig/CarlSchneider.png" style="margin:10px;width:600px"/>
+  <figcaption> Dr Carl Schneider</figcaption>
+</figure><br>
+
+Dr Carl Schneider BN, BPharm(Hons), PhD, PGCert(HigherEd) is a Senior Lecturer in Pharmacy Practice at The University of Sydney School of Pharmacy. Carl has research expertise in optimising the patient safety via Quality Use of Medicines, with research outputs spanning pharmacoepidemiology to implementation of health care services in Australian community pharmacies through development and implementation of practice guidelines. Carl completed his PhD in 2011 at the University of Western Australia and now has over 60 career total publications, primarily in the areas of health professional education, social and administrative pharmacy and implementation of health services and is the successful recipient of funding totalling over AUD$3,500,000. As a recognised leader in the area of health care services and education, Carl has been an invited speaker at multiple national and international events, elected National Education Lead for the Australasian Pharmaceutical Sciences Association in 2017, elected to the Executive Committee of the International Pharmacy Federation Academic Section in 2018, and is an associate editor for Research in Social and Administrative Pharmacy.
+
+
 
 <br>
 

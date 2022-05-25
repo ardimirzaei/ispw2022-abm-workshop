@@ -3,11 +3,9 @@ title: "Case Study 1: Hoteling’s Law for Pharmacy Location and Pricing Strateg
 teaching: 10
 exercises: 20
 questions:
-- "How to utilise multiple cpus and nodes on Artemis"
+- "TBC Questions"
 objectives:
-- "Discover python multiprocessing and mpi execution"
-keypoints:
-- "load multiprocessing library to execute a function in a parallel manner"
+- "Conduct a simple experiment using an ABM keypoints"
 
 ---
 

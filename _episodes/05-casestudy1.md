@@ -3,11 +3,9 @@ title: "Case Study 2: Rumor Mill for Information Dissemination within a Network"
 teaching: 10
 exercises: 20
 questions:
-- Use a modern python library and elegant syntax for performance benefits
+- "TBC Questions"
 objectives:
-- "Intro to Dask concepts and High level datastructures"
-- "Use dask dataframes"
-- "Use dask delayed functions"
+- "Conduct a simple experiment using an ABM"
 keypoints:
 - "Dask builds on numpy and pandas APIs but operates in a parallel manner"
 - "Computations are by default lazy and must be triggered - this reduces unneccessary computation time"
