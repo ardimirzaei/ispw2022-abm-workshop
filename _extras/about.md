@@ -7,7 +7,7 @@ title: About
 
 ## Ardalan (Ardi) Mirzaei
 <figure>
-  <img src="{{ page.root }}/fig/Ardi45.png" style="margin:10px;width:40px align='right' "/>
+  <img src="{{ page.root }}/fig/Ardi45.jpg" style="margin:10px;width:40px align='right' "/>
   <figcaption> Dr Ardi Mirzaei</figcaption>
 </figure><br>
 
@@ -16,7 +16,7 @@ Dr Ardi Mirzaei BPharm, MPhil, GradCertEdstud (Higher Ed) is a registered pharma
 
 ## Carl Schneider
 <figure>
-  <img src="{{ page.root }}/fig/CarlSchneider.png" style="margin:10px;width:600px"/>
+  <img src="{{ page.root }}/fig/CarlSchneider.jpg" style="margin:10px;width:600px"/>
   <figcaption> Dr Carl Schneider</figcaption>
 </figure><br>
 
