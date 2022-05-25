@@ -7,7 +7,7 @@ title: About
 
 ## Ardalan (Ardi) Mirzaei
 <figure>
-  <img src="{{ page.root }}/fig/Ardi45.jpg" style="margin:10px;width:128px;height:128px;" width="500" height="600" align="right"/>
+  <img src="{{ page.root }}/fig/Ardi45.jpg" style="float:right;margin:10px;width:128px;height:128px;" width="500" height="600" align="right"/>
   <figcaption> Ardi Mirzaei</figcaption>
 </figure><br>
 
