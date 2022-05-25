@@ -7,6 +7,8 @@ title: About
 
 <figure>
   <img src="{{ page.root }}/fig/Ardi45.jpg" style="margin:10px;width:200px;height:300px;" align="right"/>
+  <img src="{{ page.root }}/fig/CarlSchneider.jpg" style="margin:10px;width:200px;height:300px;" align="right"/>
+
   <!-- <figcaption> Ardi Mirzaei</figcaption> -->
 </figure><br>
 
