@@ -10,8 +10,8 @@ port: 4003
 carpentry: "sih"
 
 # Overall title for pages.
-title: "Parallel Python: multithreading, multiprocessing and parallel python programming for HPC"
-series_name: "Artemis Series"
+title: "Using Agent-Based Models to Simulate Behavior: An introductory workshop"
+series_name: "ISPW2022"
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -26,14 +26,14 @@ kind: "lesson"
 repository: <USERNAME>/<PROJECT>
 
 # Email address, no mailto:
-email: "sih.training@sydney.edu.au"
+email: "ardalan.mirzaei@sydney.edu.au"
 
 # Sites.
 sih_site: "http://informatics.sydney.edu.au"
 sih_pages: "https://sydney-informatics-hub.github.io"
 sih_github: "https://github.com/Sydney-Informatics-Hub"
-series_home: "https://sydney-informatics-hub.github.io/training.artemis/"
-training_home: "https://sydney-informatics-hub.github.io/training.home/"
+series_home: "www.ispw2022.com"
+training_home: "https://ardimirzaei.github.io/ispw2022-abm-workshop/"
 
 # Carpentries sites
 amy_site: "https://amy.software-carpentry.org/workshops"

@@ -1,5 +1,5 @@
 ---
-title: "1. Accelerating Python"
+title: "1New test. Accelerating Python"
 teaching: 10
 exercises: 0
 questions:
