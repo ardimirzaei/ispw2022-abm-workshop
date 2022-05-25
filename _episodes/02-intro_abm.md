@@ -1,7 +1,7 @@
 ---
-title: "2. Simple methods"
+title: "2. Introduction to Agent-Based Modelling"
 teaching: 10
-exercises: 15
+exercises: 0
 questions:
 - "Which method for acceleration should I choose?"
 objectives:

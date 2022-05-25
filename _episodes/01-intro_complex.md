@@ -1,5 +1,5 @@
 ---
-title: "1New test. Accelerating Python"
+title: "1. Introduction to complex systems"
 teaching: 10
 exercises: 0
 questions:

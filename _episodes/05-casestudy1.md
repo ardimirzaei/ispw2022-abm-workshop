@@ -1,7 +1,7 @@
 ---
-title: "5. Intro to Dask and Dask Dataframes"
-teaching: 25
-exercises: 5
+title: "5. Case Study 2: Rumor Mill for Information Dissemination within a Network"
+teaching: 10
+exercises: 20
 questions:
 - Use a modern python library and elegant syntax for performance benefits
 objectives:

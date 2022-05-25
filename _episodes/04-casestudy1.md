@@ -1,7 +1,7 @@
 ---
-title: "4. Traditional python approaches to multi cpu and nodes"
-teaching: 25
-exercises: 5
+title: "4. Case Study 1: Hoteling’s Law for Pharmacy Location and Pricing Strategy"
+teaching: 10
+exercises: 20
 questions:
 - "How to utilise multiple cpus and nodes on Artemis"
 objectives:

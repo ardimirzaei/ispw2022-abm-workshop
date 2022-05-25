@@ -1,5 +1,5 @@
 ---
-title: "6. Introducing dask Bag and more dask examples"
+title: "6. tbc"
 teaching: 20
 exercises: 20
 questions:

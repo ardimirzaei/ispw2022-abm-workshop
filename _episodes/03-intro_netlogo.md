@@ -1,7 +1,7 @@
 ---
-title: "3. Connecting to Artemis HPC"
-teaching: 5
-exercises: 5
+title: "3. Introduction to NetLogo "
+teaching: 10
+exercises: 0
 questions:
 - "How can you scale up beyond your local machine?"
 objectives:
