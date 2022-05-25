@@ -1,5 +1,5 @@
 ---
-title: "4. Case Study 1: Hoteling’s Law for Pharmacy Location and Pricing Strategy"
+title: "Case Study 1: Hoteling’s Law for Pharmacy Location and Pricing Strategy"
 teaching: 10
 exercises: 20
 questions:

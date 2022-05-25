@@ -1,5 +1,5 @@
 ---
-title: "1. Introduction to complex systems"
+title: "Introduction to complex systems"
 teaching: 10
 exercises: 0
 questions:

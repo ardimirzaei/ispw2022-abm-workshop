@@ -1,5 +1,5 @@
 ---
-title: "2. Introduction to Agent-Based Modelling"
+title: "Introduction to Agent-Based Modelling"
 teaching: 10
 exercises: 0
 questions:

@@ -1,5 +1,5 @@
 ---
-title: "5. Case Study 2: Rumor Mill for Information Dissemination within a Network"
+title: "Case Study 2: Rumor Mill for Information Dissemination within a Network"
 teaching: 10
 exercises: 20
 questions:

@@ -1,5 +1,5 @@
 ---
-title: "3. Introduction to NetLogo "
+title: "Introduction to NetLogo "
 teaching: 10
 exercises: 0
 questions:
