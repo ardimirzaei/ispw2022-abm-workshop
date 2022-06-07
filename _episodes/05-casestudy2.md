@@ -11,7 +11,7 @@ keypoints:
 - "Computations are by default lazy and must be triggered - this reduces unneccessary computation time"
 ---
 
-# Hoteling’s Law
+# Rumor Mill
 
 # Applications to Pharmacy
 
