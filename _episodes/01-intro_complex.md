@@ -8,8 +8,9 @@ questions:
 objectives:
 - "Identify characteristics of a complex system"
 keypoints:
-- "SIH is availble to researchers to help them research!"
-- "Many ways to make Python go faster."
+- "Complex Systems"
+- "Self-Organisation"
+- "Emergence"
 ---
 
 
