@@ -39,9 +39,9 @@ Complex systems are networks made of a number of components that interact with e
 
 > ## Non-Linear Systems
 >
-> *A Nonlinear System is subject to irreversibility, such that given some change in the inputs to the system, undoing the change does not necessarily return the system to its start, whereas all linear systems are reversible. Furthermore nonlinear systems can be subject to discontinuous or catastrophic state changes, which is not possible in linear systems.*
->  -Paul Fieguth, An Introduction to Complex Systems, 2017
-{: .callout}
+> A Nonlinear System is subject to irreversibility, such that given some change in the inputs to the system, undoing the change does not necessarily return the system to its start, whereas all linear systems are reversible. Furthermore nonlinear systems can be subject to discontinuous or catastrophic state changes, which is not possible in linear systems.
+>  *-Paul Fieguth, An Introduction to Complex Systems, 2017*
+{: .checklist}
 
 
 
@@ -53,6 +53,15 @@ Complex systems are networks made of a number of components that interact with e
 <br>
 
 ## Emergence
+
+
+<br>
+
+> ## Discussion
+>
+> - What are some real world examples of a complex system?
+> - What are some examples where we may see complex systems in the pharmacy?
+{: .checklist}
 
 
 # Text Books
