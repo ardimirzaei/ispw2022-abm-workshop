@@ -11,16 +11,22 @@ keypoints:
 - "SIH is availble to researchers to help them research!"
 - "Many ways to make Python go faster."
 ---
-This episode introduces the [Sydney Informatics Hub](https://informatics.sydney.edu.au/), and puts into context the desire to make our Python code/scripts run faster and efficiently.
 
 
-# The Sydney Informatics Hub
+# What is a Complex System?
 
-The Sydney Informatics Hub (SIH) is a _[Core Research Facility](https://sydney.edu.au/research/facilities.html)_ of the University of Sydney. Core Research Facilities centralise essential research equipment and services that would otherwise be too expensive or impractical for individual Faculties to purchase and maintain. The classic example might be the room-size electron-microscopes, built into specialised rooms in the Sydney Microscopy & Microanalysis unit.
+
+
+Complex systems are networks made of a number of components that interact with each other, typically in a nonlinear fashion. Complex systems may arise and evolve through self-organization, such that they are neither completely regular nor completely random, permitting the development of emergent behavior at macroscopic scales. - Sayama
+
+
+
+*A Nonlinear System is subject to irreversibility, such that given some change in the inputs to the system, undoing the change does not necessarily return the system to its start, whereas all linear systems are reversible. Furthermore nonlinear systems can be subject to discontinuous or catastrophic state changes, which is not possible in linear systems.*
 
 <figure>
-  <img src="{{ page.root }}/fig/01_crf.png" style="margin:10px;width:600px"/>
-  <figcaption> USyd Core Research Facilities <a href="https://sydney.edu.au/research/facilities.html">https://sydney.edu.au/research/facilities.html</a></figcaption>
+  <!-- <img src="{{ page.root }}/fig/sayama_complex_system.png" style="margin:10px;width:600px"/> -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Complex_systems_organizational_map.jpg" style="margin:10px;width:600px"/>
+  <figcaption> Topic clusters that constitute complex systems. This image is available in the <a href="https://open.umn.edu/opentextbooks/textbooks/233">book by Sayama</a> and from <a href="https://en.wikipedia.org/wiki/Complex_system">Wikipedia</a>.  </figcaption>
 </figure><br>
 
 **Artemis HPC** itself is a multi-million dollar set of equipment, a 'supercomputer', and is the main piece of equipment supported by SIH. However, we also provide a wide range of research services to aid investigators, such as:
