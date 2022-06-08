@@ -16,8 +16,8 @@ keypoints:
 # NetLogo
 
 <figure>
-  <img src="{{ page.root }}/fig/01_bash.png" style="margin:10px;width:600px"/>
-  <figcaption> An iTerm2 terminal window on Mac</figcaption>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Netlogo-ui.png" style="margin:10px;width:600px"/>
+  <figcaption> Netlogo Application</figcaption>
 </figure><br>
 
 
