@@ -1,5 +1,5 @@
 ---
-title: "Case Study 2: Rumor Mill for Information Dissemination within a Network"
+title: "Case Study 2: Modelling an epidemic"
 teaching: 10
 exercises: 20
 questions:
@@ -11,13 +11,22 @@ keypoints:
 - "Computations are by default lazy and must be triggered - this reduces unneccessary computation time"
 ---
 
-# Rumor Mill
+# EpiDEM
+
+- ismple model
+- usyd has much more complex model
+- applicaiton of modelling a disease
 
 # Applications to Pharmacy
+
+- model disease spread
+- 
+
 
 # NetLogo Model
 
 
+http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Curricular%20Models/epiDEM/epiDEM%20Basic.nlogo
 <a href = "http://www.netlogoweb.org/launch#http://ccl.northwestern.edu/netlogo/models/models/Sample%20Models/Social%20Science/Rumor%20Mill.nlogo">Run application on the Web</a>
 
 ## Activities
