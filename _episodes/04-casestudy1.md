@@ -42,10 +42,12 @@ Each consumer adds up the price and distance from each store, and then chooses t
 - scenario 1: cannot change price (regulated scripts)
 - secnario 2: cannot move (aus pharmacy location rules)
 - - how thesse affect revenue?
+- specualte what would happen if they were free to move and free to set their prices. 
+
 
 >
 > Try to see how stores behave differently when they are either prohibited from moving or changing their prices.
 > Try increasing the number of stores. Examine how they behave differently and watch which ones are the most successful. What patterns emerge?
->
+> 
 >
 {: .discussion}
