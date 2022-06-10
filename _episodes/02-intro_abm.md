@@ -30,7 +30,39 @@ keypoints:
 
 # Applications of ABM
 
-- 
+
+
+# Describe the steps for development of an agent-based model
+
+1)Designing the model
+2)Constructing model
+3)Examination of the model
+
+## Styles
+Two major styles
+–Phenomena-based modelling
+–Exploratory modelling
+
+## Stages in designing ABM
+1.Choosing a question
+2.Choosing your agents
+3.Agent properties
+4.Environment characteristics and stationary agents
+5.Agent behaviour
+6.Designing the Time Step
+7.Choosing parameters of the model
+8.Choosing your measures
+
+## Constructing
+ABM design principle:start simple and gradually add complexity.
+
+## Examination of Model
+
+–Statistical analysis of the results
+–Evaluation the results and connection with the driving question/hypothesis
+–Verification and validation
+
+
 
 # References
 - Bazghandi, A. (2012). Techniques, advantages and problems of agent based modeling for traffic simulation. International Journal of Computer Science Issues (IJCSI), 9(1), 115.
