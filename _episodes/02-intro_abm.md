@@ -14,6 +14,14 @@ keypoints:
 # Agent-Based Modelling
 
 
+<figure>
+  <!-- <img src="{{ page.root }}/fig/sayama_complex_system.png" style="margin:10px;width:600px"/> -->
+  <img src="fig/ABMArchitecture.png" style="margin:10px;width:600px"/>
+  <figcaption> Simple architectyure of a multi-agent system. This image was used from the review by <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9527397">Zhang **et al.** </a></figcaption>
+</figure><br>
+
+
+
 > An agent-based model (ABM) is a computational model for simulating the actions and interactions of autonomous agents (both individual or collective entities such as organizations or groups) in order to understand the behavior of a system and what governs its outcomes. 
 > <cite>[Agent-based Model - Wikipedia](https://en.wikipedia.org/wiki/Agent-based_model)</cite>
 
