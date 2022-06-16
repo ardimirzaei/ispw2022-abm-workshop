@@ -20,7 +20,7 @@ keypoints:
 <figure>
   <!-- <img src="{{ page.root }}/fig/sayama_complex_system.png" style="margin:10px;width:600px"/> -->
   <img src="{{ page.root }}/fig/ABMArchitecture.png" style="margin:10px;width:600px"/>
-  <figcaption> Simple architectyure of a multi-agent system. This image was used from the review by <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9527397">Zhang et al. </a></figcaption>
+  <figcaption> Simple architecture of a multi-agent system. This image was used from the review by <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9527397">Zhang et al. </a></figcaption>
 </figure><br>
 
 
@@ -40,9 +40,31 @@ keypoints:
 
 # Applications of ABM
 
+- Flows
+- Markets
+- Organisations
+- Diffusion
 
+Disciplines:
 
-# Describe the steps for development of an agent-based model
+- Computer Science
+- Economics
+- Engineering
+- Art
+- Biology
+- Chemistry
+- Physics
+- Games
+- Earth Science
+- Ecology
+- Psychology
+- Social Science
+- Epidimiology 
+- Philosophy
+
+***... But no pharmacy?***
+
+# Development of an agent-based model
 
 
 <figure>
@@ -62,7 +84,9 @@ Two major styles:
 - Phenomena-based modelling
 - Exploratory modelling
 
-## Stages in designing ABM
+
+
+### Stages in designing ABM
 
 1. Choosing a question
 2. Choosing your agents
