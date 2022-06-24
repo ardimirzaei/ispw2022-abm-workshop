@@ -84,16 +84,18 @@ Two major styles:
 - Phenomena-based modelling
 - Exploratory modelling
 
-> ### Phenomena-based modelling
+> ## Phenomena-based modelling
+>
 > text 
 > text
 > text
 {: .solution}
 
-> ### Exploratory modelling
+> ## Exploratory modelling
 > text 
 > text
 > text
+
 {: .solution}
 
 
