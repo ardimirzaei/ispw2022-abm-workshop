@@ -1,15 +1,17 @@
 ---
 title: "Introduction to NetLogo "
-teaching: 10
-exercises: 0
+teaching: 5
+exercises: 5
 questions:
 - "What are the different tools used to build ABMs"
 objectives:
 - "Increased awareness of the tools used to build ABMs "
 - "Describe the steps for development of an agent-based model "
 keypoints:
-- "Several methods and tools to connect to a remote machine"
-- "Get access to more resources than your local computer"
+- "What is the advantage of NetLogo"
+- "What are the key features of NetLogo"
+- "Ticks can be an arbitary unit of time"
+
 
 ---
 
@@ -33,12 +35,17 @@ keypoints:
 - Large Model Library
 
 
-> ## Run through sheep wolf example. 
+> ## The's go through the wolf and sheep example
 >
-> - The sliders and how everything works 
-> - Use the sliders to set conditions, the number of agents, their behaviour, their interactions, thwir external environment. 
+>
+> - What do the sliders do
+> - Setup model and go
+> - Adjust the speed of the model using the model speed (What are ticks?)
+> - Use the sliders to set conditions, the number of agents, their behaviour, their interactions, their external environment. 
 > - thought experiment what type of conditions do we want to set (drought conditions, fertile fields... )
-> - See how they interact and they change, but how do we express the output. Population of the 3 agents. 
+> - See how they interact and they change, but how do we express the output. 
+> - Run model with 3 agents (change model-version to *sheep-wolves-grass*)
+
 {: .challenge}
 
 # Other Programming Languages
@@ -47,7 +54,7 @@ keypoints:
 - Java
 - C
 
-What software might help you?
+## What software might help you?
 
 
 | Platform | Primary Domain | Supporting Organization | Operating System | GIS Capabilities | 3D Capabilities | User Support | License | Programming Language | 
