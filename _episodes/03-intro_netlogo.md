@@ -37,7 +37,8 @@ keypoints:
 <br>
 
 > ## Let's go through the wolf and sheep example
->
+> 
+> http://www.netlogoweb.org/launch#http://ccl.northwestern.edu/netlogo/models/models/Sample%20Models/Biology/Wolf%20Sheep%20Predation.nlogo
 >
 > - What do the sliders do
 > - Setup model and go
