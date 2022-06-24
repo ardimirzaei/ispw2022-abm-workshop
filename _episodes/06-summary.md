@@ -1,11 +1,11 @@
 ---
 title: "Summary and Wrap"
-teaching: 5
-exercises: 20
+teaching: 10
+exercises: 0
 questions:
-- "TBC Questions"
+- "What did we discuss today?"
 objectives:
-- "Conduct a simple experiment using an ABM"
+- "Summarise and wrap up what was learnt during this workshop"
 keypoints:
 - "Dask builds on numpy and pandas APIs but operates in a parallel manner"
 - "Computations are by default lazy and must be triggered - this reduces unneccessary computation time"
