@@ -53,8 +53,6 @@ Across these clusters, two core concepts exist. The first is emergence. Emergenc
 Behaviours are evolving and in a constant state of self-organisation and changing with respect to time.<sup>4</sup> An example of emergence is characterising the outcomes of an individual's HISB. At the individual level, one may observe that individuals seek information from their physician and use it to speak to another physician for a second opinion.<sup>5</sup> The individual may then go back to their first physician to discuss their condition. This simple task of going between physicians may be helpful to the individual and at the individual level seems harmless. However, if one observes from a different level, such as from the community level, the increased use by one individual may reduce access to a physician for another individual. If the second individual desires to source information from their physician, they may not be getting timely access to their information source. How will they then act? While a hypothetical untested scenario, emergence would be observing tasks to see the effect of low-level interactions on different system levels. It should be noted that while speculative, access to a healthcare source of information is known to be a predictor of an individual's HISB.<sup>6, 7</sup>
 
 
-
-
 <br>
 
 ## Self-Organisation

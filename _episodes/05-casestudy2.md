@@ -1,7 +1,7 @@
 ---
 title: "Case Study 2: Modelling an epidemic"
-teaching: 10
-exercises: 20
+teaching: 5
+exercises: 15
 questions:
 - "TBC Questions"
 objectives:

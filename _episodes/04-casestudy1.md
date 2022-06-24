@@ -1,7 +1,7 @@
 ---
-title: "Case Study 1: Hoteling’s Law for Pharmacy Location and Pricing Strategy"
-teaching: 10
-exercises: 20
+title: "Case Study 1: Hotelling’s Law for Pharmacy Location and Pricing Strategy"
+teaching: 5
+exercises: 15
 questions:
 - "TBC Questions"
 objectives:
@@ -9,7 +9,10 @@ objectives:
 
 ---
 
-# Hoteling’s Law
+# Hotelling’s Law
+
+Hotelling’s Law is an economic obersvation that producers in a market will make their products similar to other producers. That is, there is minimum differention between 
+
 - something broadly related to pharmacy
 - explain hoetlings law. 
 - economic law???
@@ -30,20 +33,22 @@ Each consumer adds up the price and distance from each store, and then chooses t
 
 <a href = "http://www.netlogoweb.org/launch#http://ccl.northwestern.edu/netlogo/models/models/Sample%20Models/Social%20Science/Economics/Hotelling's%20Law.nlogo">Run application on the Web</a>
 
+*Alternative, if you are still in the web appilication, search for the model:* ***Hotelling's Law*** *in Model Library*
+
 - set initial conditions of the number of stores. 
 - modify price
 - modify location
 - look at revenue
 
 
-## Activities
-
-- Adjust the paramaters 
-- scenario 1: cannot change price (regulated scripts)
-- secnario 2: cannot move (aus pharmacy location rules)
-- - how thesse affect revenue?
-- specualte what would happen if they were free to move and free to set their prices. 
-
+> ## Activities
+> 
+> - Adjust the paramaters 
+> - scenario 1: cannot change price (regulated scripts)
+> - secnario 2: cannot move (aus pharmacy location rules)
+> - - how thesse affect revenue?
+> - specualte what would happen if they were free to move and free to set their prices. 
+{: .challenge}
 
 >
 > Try to see how stores behave differently when they are either prohibited from moving or changing their prices.

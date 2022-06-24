@@ -11,7 +11,8 @@ keypoints:
 - "What is the advantage of NetLogo"
 - "What are the key features of NetLogo"
 - "Ticks can be an arbitary unit of time"
-
+- "Plots, graphs, numbers can be used to output the results of your model"
+- "Can run multiple simulations using the NetLogo BehaviourSpace feature"
 
 ---
 
@@ -73,7 +74,7 @@ keypoints:
 | MASON | General purpose; social complexity, physical modeling, abstract modeling, AI/machine learning | George Mason University, Fairfax, Virginia, USA | Cross-platform | Yes | Yes | Mailing list; documentation; Tutorials; third party extensions; reference papers; API | Academic Free License (open source) | Java | 
 | NetLogo | Social and natural sciences; Help beginning users get started authoring models | Northwestern University, Evanston, Illinois, USA | Cross-platform | Yes | Yes | Documentation; FAQ; selected references; tutorials; third party extensions; defect list; mailing lists | GPL | NetLogo | 
 | Repast | Social sciences | Argonne National Laboratory, University of Chicago; Lemont, Illinois, USA | Cross-platform | Yes | Yes | Documentation; mailing list; defect list; reference papers; external tools; tutorials; FAQ; examples | BSD | Java (RepastS, RepastJ); Python (RepastPy); Visual Basic, .Net, C++, J#, C# (Repast.net) | 
-| SARL | Distributed applications composed of autonomous entities | * Stéphane Galland, Burgundy Franche-Comté University, France; Nicolas Gaud, Burgundy Franche-Comté University, France, Sebastian Rodriguez, Advanced Informatics Technology Research Group, Tucuman, Argentina | Cross-platform | Yes By using Java extension libraries, e.g. AFC. | Yes By using Java extension libraries, e.g. Java 3D. | FAQ; mailing list; bug tracker; tutorials; API; documentation | Apache version 2 | SARL, Java | 
+| SARL | Distributed applications composed of autonomous entities | Stéphane Galland, Burgundy Franche-Comté University, France; Nicolas Gaud, Burgundy Franche-Comté University, France, Sebastian Rodriguez, Advanced Informatics Technology Research Group, Tucuman, Argentina | Cross-platform | Yes By using Java extension libraries, e.g. AFC. | Yes By using Java extension libraries, e.g. Java 3D. | FAQ; mailing list; bug tracker; tutorials; API; documentation | Apache version 2 | SARL, Java | 
 | Soar | General purpose AI; human performance modeling; learning (including explanation-based learning) | John E. Laird, Clare Bates Congdon, Mazin Assanie, Nate Derbinsky and Joseph Xu; Division of Computer Science and Engineering, University of Michigan, Ann Arbor, Michigan, USA | Cross-platform | Unknown | Unknown | Documentation; FAQ; selected publications; defect list; third party extensions; mailing list; contact authors; tutorial; examples; wiki | BSD | Soar 1 to 5 in Lisp; Soar 6 in C; Java, C++, TCL | 
 | StarLogo | Social and natural sciences; Educators; for students to model the behavior of decentralized systems; user friendly for K–12 students | Mitchel Resnick, Eric Klopfer, and others at MIT Media Lab and The MIT Scheller Teacher Education Program, Massachusetts Institute of Technology; Cambridge, MA, USA | Cross-platform | Unknown | Unknown | Mailing list; tutorials; FAQ; bug list; documentation; developer contacts | Free (closed source) – Clearthought Software License, Version 1.0 | StarLogo (an extension of Logo) | 
 | Swarm | General purpose agent based | Swarm Development Group | Cross-platform | Unknown | Unknown | Wiki; tutorials; examples; documentation; FAQ; selected publications; mailing lists | GPL | Java; Objective-C | 
