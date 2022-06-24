@@ -3,7 +3,7 @@ title: "Case Study 1: Hotelling’s Law for Pharmacy Location and Pricing Strate
 teaching: 5
 exercises: 15
 questions:
-- "TBC Questions"
+- "How does preventing pharmacy movement affect price?"
 objectives:
 - "Conduct a simple experiment using an ABM keypoints"
 

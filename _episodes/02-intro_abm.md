@@ -90,6 +90,11 @@ Two major styles:
 > text
 {: .solution}
 
+> ### Exploratory modelling
+> text 
+> text
+> text
+{: .solution}
 
 
 ### Stages in designing ABM
