@@ -45,7 +45,7 @@ keypoints:
 - Organisations
 - Diffusion
 
-Disciplines:
+**Disciplines:**
 
 - Computer Science
 - Economics
