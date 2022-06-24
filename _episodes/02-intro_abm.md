@@ -93,7 +93,7 @@ Two major styles:
 
 
 
-> ### Exploratory modelling
+> ## Exploratory modelling
 > 
 > text 
 > text
