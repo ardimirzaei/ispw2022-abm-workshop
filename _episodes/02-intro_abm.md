@@ -84,6 +84,12 @@ Two major styles:
 - Phenomena-based modelling
 - Exploratory modelling
 
+> ### Phenomena-based modelling
+> text 
+> text
+> text
+{: .solution}
+
 
 
 ### Stages in designing ABM
