@@ -91,7 +91,8 @@ Two major styles:
 > text
 {: .solution}
 
-> ## Exploratory modelling
+> ### Exploratory modelling
+> 
 > text 
 > text
 > text
