@@ -11,19 +11,19 @@ objectives:
 
 # Hotelling’s Law
 
-Hotelling’s Law is an economic obersvation that producers in a market will make their products similar to other producers. That is, there is minimum differention between to producers. This observation is the opposite of product differentiation. Product differentiation is a 
+Hotelling’s Law is an economic obersvation that producers in a market will make their products similar to other producers. That is, there is minimum differention between to producers. This observation is the opposite of product differentiation. Product differentiation is
 
 - something broadly related to pharmacy
-- explain hoetlings law. 
+- explain hotelling's law. 
 - economic law???
 
 
 # Applications to Pharmacy
 
-- think of a market in pharmacy
+- consider marketing in pharmacy
 - different pharmcies have a different look and feel
 - show images of different pharamcies (TW, cwh, 777, ....)
-- Hoestling law is that in a economic market segment that often it pays to look very similar. 
+- Hotelling's law is that in a economic market segment that often it pays to look very similar. 
 - 
 
 # NetLogo Model
