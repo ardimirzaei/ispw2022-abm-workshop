@@ -34,8 +34,9 @@ keypoints:
 - Cross-platform
 - Large Model Library
 
+<br>
 
-> ## The's go through the wolf and sheep example
+> ## Let's go through the wolf and sheep example
 >
 >
 > - What do the sliders do
@@ -45,14 +46,17 @@ keypoints:
 > - thought experiment what type of conditions do we want to set (drought conditions, fertile fields... )
 > - See how they interact and they change, but how do we express the output. 
 > - Run model with 3 agents (change model-version to *sheep-wolves-grass*)
-
 {: .challenge}
+
+
+<br>
 
 # Other Programming Languages
 
 - Python
 - Java
 - C
+<br>
 
 ## What software might help you?
 
@@ -75,3 +79,5 @@ keypoints:
 
 
 This table was shamelessly adapated from [Wikipedia - Comparison of Agent Based Modeling Software](https://en.wikipedia.org/wiki/Comparison_of_agent-based_modeling_software)
+
+<br>
