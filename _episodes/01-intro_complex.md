@@ -18,7 +18,11 @@ keypoints:
 
 # What is a Complex System?
 
-
+> ## Complex systems
+>
+> Complex systems are networks made of a number of components that interact with each other, typically in a nonlinear fashion. Complex systems may arise and evolve through self-organization, such that they are neither completely regular nor completely random, permitting the development of emergent behavior at macroscopic scales.
+>  -- <cite> Sayama, H. (2015). Introduction to the modeling and analysis of complex systems</cite>
+{: .checklist}
 
 Complex systems are networks made of a number of components that interact with each other, typically in a nonlinear fashion. Complex systems may arise and evolve through self-organization, such that they are neither completely regular nor completely random, permitting the development of emergent behavior at macroscopic scales. - Sayama
 
