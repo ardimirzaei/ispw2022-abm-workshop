@@ -57,7 +57,7 @@ The first concept is ***emergence***. Emergence is defined as ''a nontrivial rel
 
 > ## Further Information
 >Emergence occurs when micro and macro-level interactions produce properties varying from the system rules. Behaviours can be considered a complex system where there are multi-causal influences causing interactions with different system elements. These interactions can utilise a feedback loop where the subsystems can display the patterns of behaviour. These subsystems are not just the brain as the decision-making centre but a collection of systems involving the body, experiences, environment, and system constraints.<sup>3</sup> 
->Behaviours are evolving and in a constant state of self-organisation and changing with respect to time.<sup>4</sup> An example of emergence is characterising the outcomes of an individual's HISB. At the individual level, one may observe that individuals seek information from their physician and use it to speak to another physician for a second opinion.<sup>5</sup> The individual may then go back to their first physician to discuss their condition. This simple task of going between physicians may be helpful to the individual and at the individual level seems harmless. However, if one observes from a different level, such as from the community level, the increased use by one individual may reduce access to a physician for another individual. If the second individual desires to source information from their physician, they may not be getting timely access to their information source. How will they then act? While a hypothetical untested scenario, emergence would be observing tasks to see the effect of low-level interactions on different system levels. It should be noted that while speculative, access to a healthcare source of information is known to be a predictor of an individual's HISB.<sup>6, 7</sup>
+>Behaviours are evolving and in a constant state of self-organisation and changing with respect to time.<sup>4</sup> An example of emergence is characterising the outcomes of an individual's search for infromation. At the individual level, one may observe that individuals seek information from their physician and use it to speak to another physician for a second opinion.<sup>5</sup> The individual may then go back to their first physician to discuss their condition. This simple task of going between physicians may be helpful to the individual and at the individual level seems harmless. However, if one observes from a different level, such as from the community level, the increased use by one individual may reduce access to a physician for another individual. If the second individual desires to source information from their physician, they may not be getting timely access to their information source. How will they then act? While a hypothetical untested scenario, emergence would be observing tasks to see the effect of low-level interactions on different system levels. It should be noted that while speculative, access to a healthcare source of information is known to be a predictor of an individual's health information-seeking behaviour.<sup>6, 7</sup>
 >
 {: .solution}
 
@@ -69,6 +69,15 @@ The first concept is ***emergence***. Emergence is defined as ''a nontrivial rel
 
 The second concept is ***self-organisation***, which is related to time. A system has self-organising behaviour when emergent properties are being examined over time. A definition used for self-organisation is a ''dynamical process by which a system spontaneously forms the nontrivial macroscopic structure and/or behaviours over time.''<sup>1</sup> That is, order and structure in the system can form from the individual interactions. The lower-level interactions create emergent properties at the system level. When these system-level properties are observed over time, they organise to improve stability and reduce chaos.
 
+> ## Further Information
+>The common example of self-organisation is in biology and birds flocking together. While at first their individual movement seems erratic, their collective movement has purpose and direction. The birds may move following each other with no clear leader, yet all the birds together may migrate from one point to another. This collective behaviour is also known as [swarm behaviour](https://en.wikipedia.org/wiki/Swarm_behaviour). 
+> 
+> <figure>
+>   <!-- <img src="{{ page.root }}/fig/sayama_complex_system.png" style="margin:10px;width:600px"/> -->
+>   <img src="https://42796r1ctbz645bo223zkcdl-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/james-wainscoat-b7MZ6iGIoSI-unsplash-1-e1582822023573-1281x612.png" style="margin:10px;width:600px"/>
+>   <figcaption> From the Oxford University Press's Blog on the <a href="https://blog.oup.com/2020/03/the-physics-of-swarm-behaviour/">the physics of swarm behaviour</a> by Helmut Satz.  </figcaption>
+> </figure><br>
+{: .solution}
 
 <br>
 
