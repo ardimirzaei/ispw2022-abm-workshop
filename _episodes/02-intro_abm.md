@@ -7,7 +7,7 @@ questions:
 objectives:
 - "Describe the features of an agent-based model"
 keypoints:
-- "Understand there are different ways to accelerate"
+- "ABM's have been used in a wide variety of disciplines, yet their are limited applications in Pharmacy."
 - "The best method depends on your algorithms, code and data"
 ---
 
@@ -16,7 +16,7 @@ keypoints:
 > An agent-based model (ABM) is a computational model for simulating the actions and interactions of autonomous agents (both individual or collective entities such as organizations or groups) in order to understand the behavior of a system and what governs its outcomes. 
 > <cite>[Agent-based Model - Wikipedia](https://en.wikipedia.org/wiki/Agent-based_model)</cite>
 
-
+To model a complex system we can use a method known as agent-based modelling. 
 <figure>
   <!-- <img src="{{ page.root }}/fig/sayama_complex_system.png" style="margin:10px;width:600px"/> -->
   <img src="{{ page.root }}/fig/ABMArchitecture.png" style="margin:10px;width:600px"/>
@@ -85,19 +85,16 @@ Two major styles:
 - Exploratory modelling
 
 > ## Phenomena-based modelling
->
-> text 
-> text
-> text
+> We have the phenomena in mind that we want to model. Then build characeteristics into our agents and define interactions that explain the model pattern. This creates an explanantory model where we see how adjustments of our input parameters can affect the outcome of our model  
+> 
 {: .solution}
 
 
 
 > ## Exploratory modelling
 > 
-> text 
-> text
-> text
+> We create the agents and define what behaivours they are to take. Then, we run the model and observe the patterns that emerge. These patterns can be then compared to real-world phenomenon and refined to acheive model patterns that are similar. Further iterations of adjustments and comparisons with our real-world phenomenon lead to a model an explanatory model that explains the phenomenon. 
+> 
 {: .solution}
 
 
@@ -122,6 +119,11 @@ ABM design principle:start simple and gradually add complexity.
 - Evaluation the results and connection with the driving question/hypothesis
 - Verification and validation
 
+
+# Other Methods for Modelling a Complex System
+
+- System Dynamics
+- Markov Modelling
 
 
 # References
