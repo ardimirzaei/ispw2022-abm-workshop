@@ -3,7 +3,7 @@ title: "Case Study 2: Modelling an epidemic"
 teaching: 5
 exercises: 15
 questions:
-- "TBC Questions"
+- "Can we model the effects of a pandemic?"
 objectives:
 - "Conduct a simple experiment using an ABM"
 keypoints:
@@ -26,8 +26,9 @@ keypoints:
 # NetLogo Model
 
 
-http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Curricular%20Models/epiDEM/epiDEM%20Basic.nlogo
-<a href = "http://www.netlogoweb.org/launch#http://ccl.northwestern.edu/netlogo/models/models/Sample%20Models/Social%20Science/Rumor%20Mill.nlogo">Run application on the Web</a>
+[Run application on the Web](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Curricular%20Models/epiDEM/epiDEM%20Basic.nlogo)
+*Alternative, if you are still in the web appilication, search for the model:* ***epiDEM Basic*** *in Model Library*
+
 
 ## Activities
 

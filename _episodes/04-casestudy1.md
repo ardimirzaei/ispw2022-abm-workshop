@@ -44,7 +44,7 @@ Hotelling’s Law is an economic obersvation that producers in a market will mak
 Each consumer adds up the price and distance from each store, and then chooses to go to the store that offers the lowest sum. In the event of a tie, the consumer chooses randomly. The stores can either be constrained to one dimension, in which case all stores operate on a line, or they can be placed on a plane. Under the normal rule, each store tries to move randomly in the four cardinal directions to see if it can gain a larger market share; if not, it does not move. Then each store checks if it can earn a greater profit by increasing or decreasing the price of their goods; if not, it does not change the price. This decision is made without any knowledge of their competitors' strategies. There are two other conditions under which one can run this model: stores can either only change prices, or only move their location.
 
 
-<a href = "http://www.netlogoweb.org/launch#http://ccl.northwestern.edu/netlogo/models/models/Sample%20Models/Social%20Science/Economics/Hotelling's%20Law.nlogo">Run application on the Web</a>
+[Run application on the Web](http://www.netlogoweb.org/launch#http://ccl.northwestern.edu/netlogo/models/models/Sample%20Models/Social%20Science/Economics/Hotelling's%20Law.nlogo)
 
 *Alternative, if you are still in the web appilication, search for the model:* ***Hotelling's Law*** *in Model Library*
 
