@@ -11,7 +11,19 @@ objectives:
 
 # Hotelling’s Law
 
-Hotelling’s Law is an economic obersvation that producers in a market will make their products similar to other producers. That is, there is minimum differention between to producers. This observation is the opposite of product differentiation. Product differentiation is
+Hotelling’s Law is an economic obersvation that producers in a market will make their products or services similar to other producers. That is, there is minimum differention between to producers. This observation is the opposite of product differentiation. Product differentiation is a common marketing process to distinguish a product or service from your competitiors. 
+
+## Example of Hotelling's Law
+The common example of Hotelling's Law is two stores on the same street competing for consumers. Let's look at the example of fast food restaurants such as in [this article](https://mindyourdecisions.com/blog/2012/10/23/why-are-mcdonalds-and-burger-king-usually-located-near-each-other-fast-food-location-game-theory/) by [Presh Talwakar](https://mindyourdecisions.com/blog/).
+
+Thinks of two fast food restaurants in an area on the same street. They are placed at the end of street, one on the northend and the other on the southend. Theoretically, the area they are accessible to is up until the middle of the street. Assuming consumers are going to go the restaurant closest and their is an even distribution, both restaurants cover half the market at this point. However, if one restaurant move closer to the middle of the street, then they will cover more of the market as they are closer to more customers. In doing so, the other restaurant will move closer to the middle, as as they can enusre that the opposing restaurant doesn't take from their market share. In doing so, both restaurants end up in the middle. Socially, it is better to be positioned in an accessible location for all consumers to have access to a product. However, in market competition, it is more favourable to go where the majority of consumers are and which is not always the socially equitable position. 
+
+If these two restaurants can compete on price they will then try move away from the competition and position 
+
+
+
+Another example is [ice cream vendors](https://www.planetizen.com/node/65765).
+
 
 - something broadly related to pharmacy
 - explain hotelling's law. 
@@ -43,16 +55,28 @@ Each consumer adds up the price and distance from each store, and then chooses t
 
 > ## Activities
 > 
-> - Adjust the paramaters 
-> - scenario 1: cannot change price (regulated scripts)
-> - secnario 2: cannot move (aus pharmacy location rules)
-> - - how thesse affect revenue?
-> - specualte what would happen if they were free to move and free to set their prices. 
+> - Play around and adjust the input paramaters. What do you notice?
+> - When comfortable explore the scenario questions
+> > # Scenarios
+> > Scenario 1: We cannot change the price of a prescription (Regulated prescription pricing)
+> > secnario 2: We cannot move our pharmacy from its current location (Australian pharmacy location rules)
+> > - For these scenarios how is revenue affected?
+> {: .solution}
+> 
+> - Speculate what would happen if they were free to move and free to set their prices. 
 {: .challenge}
 
->
+> ## Group discussion
 > Try to see how stores behave differently when they are either prohibited from moving or changing their prices.
 > Try increasing the number of stores. Examine how they behave differently and watch which ones are the most successful. What patterns emerge?
 > 
 >
 {: .discussion}
+
+
+# Further reading
+
+- [CVS and Walgreens](https://www.startribune.com/nation-s-biggest-pharmacies-sidle-right-up-to-each-other/176188911/)
+
+
+https://mindyourdecisions.com/blog/2012/10/23/why-are-mcdonalds-and-burger-king-usually-located-near-each-other-fast-food-location-game-theory/
