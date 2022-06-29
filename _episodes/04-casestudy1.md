@@ -66,7 +66,7 @@ Each consumer adds up the price and distance from each store, and then chooses t
 >	- Change the plane
 >	- Look at the outputs
 > - When comfortable explore the scenario questions
-> > # Scenarios
+> > ## Scenarios
 > > Scenario 1: We cannot change the price of a prescription (Regulated prescription pricing)
 > > secnario 2: We cannot move our pharmacy from its current location (Australian pharmacy location rules)
 > > - For these scenarios how is revenue affected?
