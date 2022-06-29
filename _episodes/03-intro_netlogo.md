@@ -59,6 +59,7 @@ keypoints:
 - Python
 - Java
 - C
+- R
 <br>
 
 >## What software might help you?
@@ -84,3 +85,8 @@ keypoints:
 >This table was shamelessly adapated from [Wikipedia - Comparison of Agent Based Modeling Software](https://en.wikipedia.org/wiki/Comparison_of_agent-based_modeling_software)
 {: .solution}
 <br>
+
+# References
+1. Tisue, S., & Wilensky, U. (2004, May). [Netlogo: A simple environment for modeling complexity](http://ccl.sesp.northwestern.edu/papers/netlogo-iccs2004.pdf). In International conference on complex systems (Vol. 21, pp. 16-21).
+2. Thiele, J. C. (2014). [R marries NetLogo: introduction to the RNetLogo package](https://www.jstatsoft.org/index.php/jss/article/view/v058i02/749). Journal of Statistical Software, 58, 1-41.
+3. Wilensky, U. (1999). NetLogo (and NetLogo user manual). Center for connected learning and computer-based modeling, Northwestern University. [http://ccl.northwestern.edu/netlogo/docs](https://ccl.northwestern.edu/netlogo/docs/).

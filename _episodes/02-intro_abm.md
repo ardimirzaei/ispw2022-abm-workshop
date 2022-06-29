@@ -36,7 +36,6 @@ To model a complex system we can use a method known as agent-based modelling.
 | Flexible | Large interactions can be computationally intensive | 
 | Low cost and time saving approach |  | 
 
-<cite>Bazghandi</cite>
 
 # Applications of ABM
 
@@ -150,6 +149,7 @@ Start simple and build up identifying interesting questions along the way (botto
 
 
 # References
-- Bazghandi, A. (2012). Techniques, advantages and problems of agent based modeling for traffic simulation. International Journal of Computer Science Issues (IJCSI), 9(1), 115.
-- Zhang, W., Valencia, A., & Chang, N. B. (2021). Synergistic integration between machine learning and agent-based modeling: A multidisciplinary review. IEEE Transactions on Neural Networks and Learning Systems.
-- Salgado, M., & Gilbert, N. (2013). Agent based modelling. In Handbook of quantitative methods for educational research (pp. 247-265). Brill.
+1. Bazghandi, A. (2012). Techniques, advantages and problems of agent based modeling for traffic simulation. International Journal of Computer Science Issues (IJCSI), 9(1), 115.
+2. Zhang, W., Valencia, A., & Chang, N. B. (2021). Synergistic integration between machine learning and agent-based modeling: A multidisciplinary review. IEEE Transactions on Neural Networks and Learning Systems.
+3. Salgado, M., & Gilbert, N. (2013). [Agent based modelling](https://scholar.google.com/scholar_url?url=https://brill.com/downloadpdf/book/edcoll/9789462094048/BP000013.pdf&hl=en&sa=T&oi=gsb&ct=res&cd=0&d=2184768083153287837&ei=jJe7YoyKPMiUywTuz5nQBg&scisig=AAGBfm1jFm4G5rtSttZ0A0jXzNIZNUpahw). In Handbook of quantitative methods for educational research (pp. 247-265). Brill.
+4. Wilensky, U., & Rand, W. (2015). An introduction to agent-based modeling: modeling natural, social, and engineered complex systems with NetLogo. Mit Press.

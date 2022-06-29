@@ -20,17 +20,17 @@ By the end of this workshop, participants will be able to:
 
 ## Additional Information
 **Optional Reading Material:**
--	Hotelling, Harold. (1929). "Stability in Competition." The Economic Journal 39.153: 41 -57. (Stable URL: https://www.jstor.org/stable/2224214).
--	C. Macal and M. North, "Introductory tutorial: Agent-based modeling and simulation," Proceedings of the Winter Simulation Conference 2014, 2014, pp. 6-20, doi: 10.1109/WSC.2014.7019874. (https://ieeexplore.ieee.org/document/7019874)
+-	Hotelling, Harold. (1929). "Stability in Competition." The Economic Journal 39.153: 41 -57. (Stable URL: [https://www.jstor.org/stable/2224214](https://www.jstor.org/stable/2224214).
+-	C. Macal and M. North, "Introductory tutorial: Agent-based modeling and simulation," Proceedings of the Winter Simulation Conference 2014, 2014, pp. 6-20, doi: 10.1109/WSC.2014.7019874. ([https://ieeexplore.ieee.org/document/7019874](https://ieeexplore.ieee.org/document/7019874))
 
-This workshop will utilize NetLogo to demonstrate the agent-based modelling. Attendees do not need to download NetLogo to partake in this class. The models are available to be run on the NetLogo Web: https://ccl.northwestern.edu/netlogo/
-A user guide to NetLogo: http://www.intro-to-abm.com/  
+This workshop will utilize NetLogo to demonstrate the agent-based modelling. Attendees do not need to download NetLogo to partake in this class. The models are available to be run on the NetLogo Web: [https://ccl.northwestern.edu/netlogo/](https://ccl.northwestern.edu/netlogo/)
+A user guide to NetLogo: [http://www.intro-to-abm.com/](http://www.intro-to-abm.com/)  
 
 ## References
 Silverman, E., Gostoli, U., Picascia, S., Almagor, J., McCann, M., Shaw, R., & Angione, C. (2021). Situating agent-based modelling in population health research. Emerging Themes in Epidemiology, 18(1), 1-15.
 
 
-**Recorded Lesson:** You can watch the recorded lesson from July, 2022, here: [To be added](https://www.ispw2022.com.au)
+**Recorded Lesson:** You can watch the recorded lesson from July, 2022, here: [To be added](http://www.ispw2022.com.au)
 
 <br>
 
