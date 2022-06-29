@@ -13,17 +13,13 @@ objectives:
 
 Hotelling’s Law is an economic obersvation that producers in a market will make their products or services similar to other producers. That is, there is minimum differention between to producers. This observation is the opposite of product differentiation. Product differentiation is a common marketing process to distinguish a product or service from your competitiors. 
 
-## Example of Hotelling's Law
-The common example of Hotelling's Law is two stores on the same street competing for consumers. Let's look at the example of fast food restaurants such as in [this article](https://mindyourdecisions.com/blog/2012/10/23/why-are-mcdonalds-and-burger-king-usually-located-near-each-other-fast-food-location-game-theory/) by [Presh Talwakar](https://mindyourdecisions.com/blog/).
-
-Thinks of two fast food restaurants in an area on the same street. They are placed at the end of street, one on the northend and the other on the southend. Theoretically, the area they are accessible to is up until the middle of the street. Assuming consumers are going to go the restaurant closest and their is an even distribution, both restaurants cover half the market at this point. However, if one restaurant move closer to the middle of the street, then they will cover more of the market as they are closer to more customers. In doing so, the other restaurant will move closer to the middle, as as they can enusre that the opposing restaurant doesn't take from their market share. In doing so, both restaurants end up in the middle. Socially, it is better to be positioned in an accessible location for all consumers to have access to a product. However, in market competition, it is more favourable to go where the majority of consumers are and which is not always the socially equitable position. 
-
-If these two restaurants can compete on price they will then try move away from the competition and position 
-
-
-
-Another example is [ice cream vendors](https://www.planetizen.com/node/65765).
-
+> ## Example of Hotelling's Law
+> The common example of Hotelling's Law is two stores on the same street competing for consumers. Let's look at the example of fast food restaurants such as in [this article](https://mindyourdecisions.com/blog/2012/10/23/why-are-mcdonalds-and-burger-king-usually-located-near-each-other-fast-food-location-game-theory/) by [Presh Talwakar](https://mindyourdecisions.com/blog/).
+> 
+> Thinks of two fast food restaurants in an area on the same street. They are placed at the end of street, one on the northend and the other on the southend. Theoretically, the area they are accessible to is up until the middle of the street. Assuming consumers are going to go the restaurant closest and their is an even distribution, both restaurants cover half the market at this point. However, if one restaurant move closer to the middle of the street, then they will cover more of the market as they are closer to more customers. In doing so, the other restaurant will move closer to the middle, as as they can enusre that the opposing restaurant doesn't take from their market share. In doing so, both restaurants end up in the middle. Socially, it is better to be positioned in an accessible location for all consumers to have access to a product. However, in market competition, it is more favourable to go where the majority of consumers are and which is not always the socially equitable position. 
+> 
+> Another example is [ice cream vendors](https://www.planetizen.com/node/65765).
+{: .solution}
 
 - something broadly related to pharmacy
 - explain hotelling's law. 
@@ -32,11 +28,20 @@ Another example is [ice cream vendors](https://www.planetizen.com/node/65765).
 
 # Applications to Pharmacy
 
-- consider marketing in pharmacy
-- different pharmcies have a different look and feel
+- Consider marketing in pharmacy
+- Different pharmcies have a different look and feel
 - show images of different pharamcies (TW, cwh, 777, ....)
 - Hotelling's law is that in a economic market segment that often it pays to look very similar. 
 - 
+
+
+<figure>
+  <img src="https://blog.mylocumchoice.com/wp-content/uploads/2021/06/image0-1024x482.png" style="margin:10px;width:600px"/>
+</figure><br>
+<figure>
+  <img src="http://3.bp.blogspot.com/-bH_dG-UG9ro/VKf7Z2sVFSI/AAAAAAAAAsQ/f6CkaFduQjE/s1600/pharmacy-logos.jpg" style="margin:10px;width:600px"/>
+  <figcaption> Pharmacy Brands. Images sourced from Google Images.</figcaption>
+</figure><br>
 
 # NetLogo Model
 
@@ -56,6 +61,10 @@ Each consumer adds up the price and distance from each store, and then chooses t
 > ## Activities
 > 
 > - Play around and adjust the input paramaters. What do you notice?
+>	- Set initial conditions of the number of stores
+>	- Modify the strategy
+>	- Change the plane
+>	- Look at the outputs
 > - When comfortable explore the scenario questions
 > > # Scenarios
 > > Scenario 1: We cannot change the price of a prescription (Regulated prescription pricing)
