@@ -128,7 +128,8 @@ Considering these two styles, it is important to precisely define the hypothesis
 7. Choosing your measures
   - These are your outputs. What do you want your model to report?
 
-***How to get started building? ***
+***How to get started building?***
+
 Start simple and add components to address your research question. (Top down) <br>
 or <br>
 Start simple and build up identifying interesting questions along the way (bottom up).
