@@ -8,7 +8,7 @@ objectives:
 - "Describe the features of an agent-based model"
 keypoints:
 - "ABM's have been used in a wide variety of disciplines, yet their are limited applications in Pharmacy."
-- "The best method depends on your algorithms, code and data"
+- "Design principle: Start simple and build to complexity"
 ---
 
 # Agent-Based Modelling
@@ -64,6 +64,8 @@ To model a complex system we can use a method known as agent-based modelling.
 
 ***... But no pharmacy?***
 
+<br>
+
 # Development of an agent-based model
 
 
@@ -80,6 +82,7 @@ To model a complex system we can use a method known as agent-based modelling.
 
 ## 1. Hypothesis Specification
 
+When designing the ABM we consider the different types of modelling styles.
 Two major styles:
 - Phenomena-based modelling
 - Exploratory modelling
@@ -97,21 +100,40 @@ Two major styles:
 > 
 {: .solution}
 
+<br>
 
-### Stages in designing ABM
+Considering these two styles, it is important to precisely define the hypothesis and the question the your model tries to address. A good approach is to embed the model in existing theories. 
 
-1. Choosing a question
-2. Choosing your agents
-3. Agent properties
-4. Environment characteristics and stationary agents
-5. Agent behaviour
-6. Designing the Time Step
-7. Choosing parameters of the model
-8. Choosing your measures
+<br>
 
 ## 2. Model Development
 
-ABM design principle:start simple and gradually add complexity.
+### Stages in designing ABM
+
+
+
+1. Formulate a question
+  - Clearly defined question which model addresses
+2. Choosing your agents and their properties
+  - These can be 'individuals' in your model. Alternatively, agent's can be another construct that has a behaviour to be modelled. 
+  - Their properties can their characteristics. 
+3. Environment characteristics and stationary agents
+  - This could be the building/institution/intervention that interacts/influences your agents. 
+4. Agent behaviour
+  - How they move and act. 
+5. Designing the Time Step
+  - What happens in each unit of 'time'. Each step of the model actions take place. 
+6. Choosing parameters of the model
+  - What input parameters can you adjust? Are they for the agent or for the environment?
+7. Choosing your measures
+  - These are your outputs. What do you want your model to report?
+
+***How to get started building? ***
+Start simple and add components to address your research question. (Top down) <br>
+or <br>
+Start simple and build up identifying interesting questions along the way (bottom up).
+
+<br>
 
 ## 3. Model Validation
 
