@@ -66,6 +66,7 @@ Each consumer adds up the price and distance from each store, and then chooses t
 >	- Change the plane
 >	- Look at the outputs
 > - When comfortable explore the scenario questions
+>
 > > ## Scenarios
 > > Scenario 1: We cannot change the price of a prescription (Regulated prescription pricing)
 > > secnario 2: We cannot move our pharmacy from its current location (Australian pharmacy location rules)
@@ -86,6 +87,3 @@ Each consumer adds up the price and distance from each store, and then chooses t
 # Further reading
 
 - [CVS and Walgreens](https://www.startribune.com/nation-s-biggest-pharmacies-sidle-right-up-to-each-other/176188911/)
-
-
-https://mindyourdecisions.com/blog/2012/10/23/why-are-mcdonalds-and-burger-king-usually-located-near-each-other-fast-food-location-game-theory/
