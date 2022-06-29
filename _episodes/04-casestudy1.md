@@ -21,20 +21,16 @@ Hotelling’s Law is an economic obersvation that producers in a market will mak
 > Another example is [ice cream vendors](https://www.planetizen.com/node/65765).
 {: .solution}
 
-- something broadly related to pharmacy
-- explain hotelling's law. 
-- economic law???
-
-
 # Applications to Pharmacy
 
 - Consider marketing in pharmacy
 - Different pharmcies have a different look and feel
-- show images of different pharamcies (TW, cwh, 777, ....)
 - Hotelling's law is that in a economic market segment that often it pays to look very similar. 
-- 
 
 
+<figure>
+  <img src="{{ page.root }}/fig/pharmacy_brands_aus.png" style="margin:10px;width:600px"/>
+</figure><br>
 <figure>
   <img src="https://blog.mylocumchoice.com/wp-content/uploads/2021/06/image0-1024x482.png" style="margin:10px;width:600px"/>
 </figure><br>
@@ -52,19 +48,14 @@ Each consumer adds up the price and distance from each store, and then chooses t
 
 *Alternative, if you are still in the web appilication, search for the model:* ***Hotelling's Law*** *in Model Library*
 
-- set initial conditions of the number of stores. 
-- modify price
-- modify location
-- look at revenue
-
-
 > ## Activities
 > 
-> - Play around and adjust the input paramaters. What do you notice?
+> - Play around and adjust the input paramaters. 
 >	- Set initial conditions of the number of stores
 >	- Modify the strategy
 >	- Change the plane
 >	- Look at the outputs
+>	- *What do you notice?*
 > - When comfortable explore the scenario questions
 >
 > > ## Scenarios
