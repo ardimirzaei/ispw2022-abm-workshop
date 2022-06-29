@@ -8,6 +8,7 @@ objectives:
 - "Describe the features of an agent-based model"
 keypoints:
 - "ABM's have been used in a wide variety of disciplines, yet their are limited applications in Pharmacy."
+- "Steps: Hypothesis Specification -> Model Development -> Model Validation"
 - "Design principle: Start simple and build to complexity"
 ---
 
@@ -131,7 +132,7 @@ Considering these two styles, it is important to precisely define the hypothesis
 
 Start simple and add components to address your research question. (Top down) <br>
 or <br>
-Start simple and build up identifying interesting questions along the way (bottom up).
+Start simple and build up identifying interesting questions along the way (Bottom up).
 
 <br>
 
