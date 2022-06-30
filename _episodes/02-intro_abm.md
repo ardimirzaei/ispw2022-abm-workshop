@@ -26,6 +26,11 @@ To model a complex system we can use a method known as agent-based modelling.
 </figure><br>
 
 
+<figure>
+  <!-- <img src="{{ page.root }}/fig/sayama_complex_system.png" style="margin:10px;width:600px"/> -->
+  <img src="{{ page.root }}/fig/PARTE_framework.jpg" style="margin:10px;width:600px"/>
+  <figcaption> PARTE Framework describing the elements of an agent-based model by <a href="https://www.ncbi.nlm.nih.gov/books/NBK305917/">Hammond </a></figcaption>
+</figure><br>
 
 
 
@@ -146,3 +151,4 @@ Start simple and build up identifying interesting questions along the way (Botto
 2. Zhang, W., Valencia, A., & Chang, N. B. (2021). Synergistic integration between machine learning and agent-based modeling: A multidisciplinary review. IEEE Transactions on Neural Networks and Learning Systems.
 3. Salgado, M., & Gilbert, N. (2013). [Agent based modelling](https://scholar.google.com/scholar_url?url=https://brill.com/downloadpdf/book/edcoll/9789462094048/BP000013.pdf&hl=en&sa=T&oi=gsb&ct=res&cd=0&d=2184768083153287837&ei=jJe7YoyKPMiUywTuz5nQBg&scisig=AAGBfm1jFm4G5rtSttZ0A0jXzNIZNUpahw). In Handbook of quantitative methods for educational research (pp. 247-265). Brill.
 4. Wilensky, U., & Rand, W. (2015). An introduction to agent-based modeling: modeling natural, social, and engineered complex systems with NetLogo. Mit Press.
+5. Hammond, R. A. (2015). Considerations and best practices in agent-based modeling to inform policy. In Assessing the use of agent-based models for tobacco regulation. National Academies Press (US).
