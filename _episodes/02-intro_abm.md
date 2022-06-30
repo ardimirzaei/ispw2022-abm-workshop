@@ -6,6 +6,7 @@ questions:
 - "What are agent-based models?"
 objectives:
 - "Describe the features of an agent-based model"
+- "Describe the steps for development of an agent-based model "
 keypoints:
 - "ABM's have been used in a wide variety of disciplines, yet their are limited applications in Pharmacy."
 - "Steps: Hypothesis Specification -> Model Development -> Model Validation"
@@ -47,20 +48,11 @@ To model a complex system we can use a method known as agent-based modelling.
 
 **Disciplines:**
 
-- Computer Science
-- Economics
-- Engineering
-- Art
-- Biology
-- Chemistry
-- Physics
-- Games
-- Earth Science
-- Ecology
-- Psychology
-- Social Science
-- Epidimiology 
-- Philosophy
+| Computer Science | Art | Physics | Ecology | 
+| Economics | Biology | Games | Psychology | 
+| Engineering | Chemistry | Earth Science | Social Science | 
+| Epidimiology  | Philosophy | 
+
 
 ***... But no pharmacy?***
 
