@@ -1,6 +1,17 @@
 ---
 title: "Instructor Notes"
 ---
+
+# Why is an ABM useful for Emergent Phenomna
+
+One may want to use ABM when there is potential for emergent phenomena, i.e., when:
+- Individual behavior is nonlinear and can be characterized by thresholds, if-then rules, or nonlinear coupling. Describing discontinuity in individual behavior is difficult with differential equations.
+- Individual behavior exhibits memory, path-dependence, and hysteresis, non-markovian behavior, or temporal correlations, including learning and adaptation.
+- Agent interactions are heterogeneous and can generate network effects. Aggregate flow equations usually assume global homogeneous mixing, but the topology of the interaction network can lead to significant deviations from predicted aggregate behavior.
+- Averages will not work. Aggregate differential equations tend to smooth out fluctuations, not ABM, which is important because under certain conditions, fluctuations can be amplified: the system is linearly stable but unstable to larger perturbations.
+
+
+
 # Hotelling's Law
 
 ## WHAT IS IT?
