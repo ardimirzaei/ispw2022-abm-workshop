@@ -6,7 +6,7 @@ questions:
 - "What are the different tools used to build ABMs"
 objectives:
 - "Increased awareness of the tools used to build ABMs "
-- "Describe the steps for development of an agent-based model "
+
 keypoints:
 - "What is the advantage of NetLogo"
 - "What are the key features of NetLogo"
