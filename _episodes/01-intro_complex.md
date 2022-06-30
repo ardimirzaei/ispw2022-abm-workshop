@@ -101,5 +101,5 @@ The second concept is ***self-organisation***, which is related to time. A syste
 5. Anker, A. E., Reinhart, A. M., & Feeley, T. H. (2011). Health information seeking: a review of measures and methods. Patient education and counseling, 82(3), 346-354.
 6. Health Literacy And Its Association With The Use Of Information Sources And With Barriers To Information Seeking In Clinic-Based Pregnant Women
 7. Shieh, C., Mays, R., McDaniel, A., & Yu, J. (2009). Health literacy and its association with the use of information sources and with barriers to information seeking in clinic-based pregnant women. Health care for women international, 30(11), 971-988.
-
+8. Bonabeau, E. (2002). Agent-based modeling: Methods and techniques for simulating human systems. Proceedings of the national academy of sciences, 99(suppl_3), 7280-7287.
 
