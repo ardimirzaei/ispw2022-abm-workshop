@@ -56,6 +56,30 @@ For every action included for any agent in an ABM, the modeler must define condi
 - *Contain “agent types” itself, with their own properties, actions, and rules.* For example, a model of subsistence agriculture may contain rules for crop regeneration at any particular environmental location that are dependent on farming and harvest practices as well as intrinsic soil and water conditions (see Axtell et al., 2002).
 - *Can change over time, endogenously* (as a result of such agent actions as crop rotation) or *exogenously* (for example, as a result of a policy change or external shock).
 
+
+> ## References from the paper by Hammond
+> - Axtell RL, Epstein JM, Dean JS, Gumerman GJ, Swedlund AC, Harburger J, Chakravarty S, Hammond R, Parker J, Parker M. Population growth and collapse in a multiagent model of the Kayenta Anasazi in Long House Valley. Proceedings of the National Academy of Sciences of the United States of America. 2002;99(Suppl 3):7275–7279.
+> - Brown DG, Riolo R, Robinson DT, North M, Rand W. Spatial process and data models: Toward integration of agent-based models and GIS. Journal of Geographical Systems. 2005b;7(1):25–47.
+> - Happe K, Kellermann K, Balmann A. Agent-based analysis of agricultural policies: An illustration of the agricultural policy simulator Agripolis, its adaptation and behavior. Ecology and Society. 2006;11(1):49.
+> - Magliocca NR, Brown DG, Ellis EC. Cross-site comparison of land-use decision-making and its consequences across land systems with a generalized agent-based model. PLoS ONE. 2014;9(1):e86179.
+> - Sun S, Parker DC, Huang Q, Filatova T, Robinson DT, Riolo RL, Hutchins M, Brown DG. Market impacts on land-use change: An agent-based experiment. Annals of the Association of American Geographers. 2014;104(3):460–484.
+> - Hammond RA, Ornstein JT, Fellows LK, Dube L, Levitan R, Dagher A. A model of food reward learning with dynamic reward exposure. Frontiers in Computational Neuroscience. 2012;6(82):1–8.
+> - Kollman K, Miller JH, Page SE. Adaptive parties in spatial elections. American Political Science Review. 1992;86(4):929–937.
+> - Kollman K, Miller JH, Page SE. Political institutions and sorting in a Tiebout model. The American Economic Review. 1997;87:977–992.
+> - Maroulis S, Bakshy E, Gomez L, Wilensky U. Modeling the transition to public school choice. Journal of Artificial Societies and Social Simulation. 2014;17(2):3.
+> - Hammond RA, Ornstein JT. A model of social influence on body mass index. Annals of the New York Academy of Sciences. 2014;1331:34–42.
+> - Luke DA, Sorg AA, Mack-Crane A, Hammond RA, Kasman ME, Ribisl KM, Henriksen L. “Tobacco Town: Modeling the effects of tobacco retail reduction.”. State and Community Tobacco Control Initiative, National Cancer Institute; Chicago, IL: 2014. (Poster presentation at Annual Investigators Meeting).
+> - Axelrod R, Hammond RA, Grafen A. Altruism via kin-selection strategies that rely on arbitrary tags with which they coevolve. Evolution. 2004;58(8):1833–1838.
+> - Hammond RA, Axelrod R. Evolution of contingent altruism when cooperation is expensive. Theoretical Population Biology. 2006a;69(3):333–338.
+> - Hammond RA, Axelrod R. The evolution of ethnocentrism. Journal of Conflict Resolution. 2006b;50(6):926–936.
+> - Nowak MA. Five rules for the evolution of cooperation. Science. 2006;314(5805):1560–1563. 
+> - Bhavnani R, Miodownik D. Ethnic polarization, ethnic salience, and civil war. Journal of Conflict Resolution. 2009;53(1):30–49.
+> - Epstein JM. Modeling civil violence: An agent-based computational approach. Proceedings of the National Academy of Sciences of the United States of America. 2002;99(Suppl 3):7243–7250.
+> - Luke DA, Sorg AA, Mack-Crane A, Hammond RA, Kasman ME, Ribisl KM, Henriksen L. “Tobacco Town: Modeling the effects of tobacco retail reduction.”. State and Community Tobacco Control Initiative, National Cancer Institute; Chicago, IL: 2014. (Poster presentation at Annual Investigators Meeting).
+> - Garcia R, Jager W. From the special issue editors: Agent-based modeling of innovation diffusion. Journal of Product Innovation Management. 2011;28(2):148–151.
+{: .solution}
+
+
 ## Architecture of an ABM
 
 
