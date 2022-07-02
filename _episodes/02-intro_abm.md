@@ -144,6 +144,8 @@ Start simple and build up identifying interesting questions along the way (Botto
 - Evaluation the results and connection with the driving question/hypothesis
 - Verification and validation
 
+# Other Resources 
+
 > ## Other Model Development Suggestions
 > 
 > There many ways to approach the model development process. In the above, we provided a simple suggested approach to get started. While reading the literature on ABM design, many different authors will have suggestion for an approach. Theses are usually based on the industry. As an example, we have inlcuded the table below from a policy development perspective. [Link to table](https://www.ncbi.nlm.nih.gov/books/NBK305917/table/tab_A-1/?report=objectonly). In ecology, for example, is the [ODD protocols](https://ethz.ch/content/dam/ethz/special-interest/usys/ites/ecosystem-management-dam/documents/EducationDOC/EM_DOC/Recommended%20readingDOC/Grimm_2010.pdf), which stands for overview, design concepts, and detail. In their detailed guide, the authors provide substantional information and examples on how to report a model.  

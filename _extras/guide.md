@@ -4,13 +4,16 @@ title: "Instructor Notes"
 
 # Why is an ABM useful for Emergent Phenomna
 
+**Text from the paper by Bonabeau. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC128598/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC128598/)** 
+Bonabeau, E. (2002). Agent-based modeling: Methods and techniques for simulating human systems. *Proceedings of the national academy of sciences*, 99(suppl_3), 7280-7287.
+
 One may want to use ABM when there is potential for emergent phenomena, i.e., when:
 - Individual behavior is nonlinear and can be characterized by thresholds, if-then rules, or nonlinear coupling. Describing discontinuity in individual behavior is difficult with differential equations.
 - Individual behavior exhibits memory, path-dependence, and hysteresis, non-markovian behavior, or temporal correlations, including learning and adaptation.
 - Agent interactions are heterogeneous and can generate network effects. Aggregate flow equations usually assume global homogeneous mixing, but the topology of the interaction network can lead to significant deviations from predicted aggregate behavior.
 - Averages will not work. Aggregate differential equations tend to smooth out fluctuations, not ABM, which is important because under certain conditions, fluctuations can be amplified: the system is linearly stable but unstable to larger perturbations.
 
-# Episode 2
+# Introduction to ABM
 
 
 ## Building Blocks of an ABM 
@@ -86,22 +89,25 @@ For every action included for any agent in an ABM, the modeler must define condi
 
 # Case Study 1 - Hotelling's Law
 
-## WHAT IS IT?
+**Text from the NetLogo Model Library on Hoetlling's Law: [https://ccl.northwestern.edu/netlogo/models/Hotelling'sLaw](https://ccl.northwestern.edu/netlogo/models/Hotelling'sLaw)**
+
+
+**WHAT IS IT?**
 This model is a representation of Hotelling's law (1929), which examines the optimal placement of stores and pricing of their goods in order to maximize profit. In Hotelling's original paper, the stores were confined to a single dimension. This model replicates and extends Hotelling's law, by allowing the stores to move freely on a plane.
 
 In this model, several stores attempt to maximize their profits by moving and changing their prices. Each consumer chooses their store of preference based on the distance to the store and the price of the goods it offers.
 
-## HOW IT WORKS
+**HOW IT WORKS**
 Each consumer adds up the price and distance from each store, and then chooses to go to the store that offers the lowest sum. In the event of a tie, the consumer chooses randomly. The stores can either be constrained to one dimension, in which case all stores operate on a line, or they can be placed on a plane. Under the normal rule, each store tries to move randomly in the four cardinal directions to see if it can gain a larger market share; if not, it does not move. Then each store checks if it can earn a greater profit by increasing or decreasing the price of their goods; if not, it does not change the price. This decision is made without any knowledge of their competitors' strategies. There are two other conditions under which one can run this model: stores can either only change prices, or only move their location.
 
-## HOW TO USE IT
+**HOW TO USE IT**
 Press SETUP to create the stores and a visualization of their starting market share areas. Press GO to have the model run continuously. Press GO-ONCE to have the model run once. The NUMBER-OF-STORES slider decides how many stores are in the world.
 
 If the LAYOUT chooser is on LINE, then the stores will operate only on one dimension. If it is on PLANE, then the stores will operate in a two dimensional space.
 
 If the RULES chooser is on PRICING-ONLY, then stores can only change their price. If it is on MOVING-ONLY, then the stores can only move. If it is on NORMAL, all stores can change their prices and move.
 
-## THINGS TO NOTICE
+**THINGS TO NOTICE**
 On the default settings, notice that the two stores end up in very close contact and with minimal prices. This is because each store tries to cut into their competitor's fringe consumers by moving closer and reducing their prices.
 
 Also notice how the shapes of the boundaries end up as perpendicular bisectors or hyperbolic arcs. The distance between the stores and their difference in prices determines the eccentricity of these arcs.
@@ -109,5 +115,50 @@ Also notice how the shapes of the boundaries end up as perpendicular bisectors o
 Try increasing the store number to three or more, and notice how the store with the most area is not necessarily the most profitable.
 
 Plots show the prices, areas, and revenues of all stores.
+
+# Case Study 2 - epiDEM Basic
+
+**Text from the NetLogo Model Library on epiDEM Basic: [https://ccl.northwestern.edu/netlogo/models/epiDEMBasic](https://ccl.northwestern.edu/netlogo/models/epiDEMBasic)**
+
+**WHAT IS IT?**
+This model simulates the spread of an infectious disease in a closed population. It is an introductory model in the curricular unit called epiDEM (Epidemiology: Understanding Disease Dynamics and Emergence through Modeling). This particular model is formulated based on a mathematical model that describes the systemic dynamics of a phenomenon that emerges when one infected person is introduced in a wholly susceptible population. This basic model, in mathematical epidemiology, is known as the Kermack-McKendrick model.
+
+The Kermack-McKendrick model assumes a closed population, meaning there are no births, deaths, or travel into or out of the population. It also assumes that there is homogeneous mixing, in that each person in the world has the same chance of interacting with any other person within the world. In terms of the virus, the model assumes that there are no latent or dormant periods, nor a chance of viral mutation.
+
+Because this model is so simplistic in nature, it facilitates mathematical analyses and also the calculation of the threshold at which an epidemic is expected to occur. We call this the reproduction number, and denote it as R_0. Simply, R_0 stands for the number of secondary infections that arise as a result of introducing one infected person in a wholly susceptible population, over the course of the infected person's contagious period (i.e. while the person is infective, which, in this model, is from the beginning of infection until recovery).
+
+This model incorporates all of the above assumptions, but each individual has a 5% chance of being initialized as infected. This model shows the disease spread as a phenomenon with an element of stochasticity. Small perturbations in the parameters included here can in fact lead to different final outcomes.
+
+Overall, this model helps users 1) engage in a new way of viewing/modeling epidemics that is more personable and relatable 2) understand how the reproduction number, R_0, represents the threshold for an epidemic 3) think about different ways to calculate R_0, and the strengths and weaknesses in each approach 4) understand the relationship between derivatives and integrals, represented simply as rates and cumulative number of cases, and 5) provide opportunities to extend or change the model to include some properties of a disease that interest users the most.
+
+**HOW IT WORKS**
+Individuals wander around the world in random motion. Upon coming into contact with an infected person, by being in any of the eight surrounding neighbors of the infected person or in the same location, an uninfected individual has a chance of contracting the illness. The user sets the number of people in the world, as well as the probability of contracting the disease.
+
+An infected person has a probability of recovering after reaching their recovery time period, which is also set by the user. The recovery time of each individual is determined by pulling from an approximately normal distribution with a mean of the average recovery time set by the user.
+
+The colors of the individuals indicate the state of their health. Three colors are used: white individuals are uninfected, red individuals are infected, green individuals are recovered. Once recovered, the individual is permanently immune to the virus.
+
+The graph INFECTION AND RECOVERY RATES shows the rate of change of the cumulative infected and recovered in the population. It tracks the average number of secondary infections and recoveries per tick. The reproduction number is calculated under different assumptions than those of the Kermack McKendrick model, as we allow for more than one infected individual in the population, and introduce aforementioned variables.
+
+At the end of the simulation, the R_0 reflects the estimate of the reproduction number, the final size relation that indicates whether there will be (or there was, in the model sense) an epidemic. This again closely follows the mathematical derivation that R_0 = beta*S(0)/ gamma = N*ln(S(0) / S(t)) / (N - S(t)), where N is the total population, S(0) is the initial number of susceptibles, and S(t) is the total number of susceptibles at time t. In this model, the R_0 estimate is the number of secondary infections that arise for an average infected individual over the course of the person's infected period.
+
+**HOW TO USE IT**
+The SETUP button creates individuals according to the parameter values chosen by the user. Each individual has a 5% chance of being initialized as infected. Once the model has been setup, push the GO button to run the model. GO starts the model and runs it continuously until GO is pushed again.
+
+Note that in this model each time-step can be considered to be in hours, although any suitable time unit will do.
+
+What follows is a summary of the sliders in the model.
+
+INITIAL-PEOPLE (initialized to vary between 50 - 400): The total number of individuals in the simulation, determined by the user. INFECTION-CHANCE (10 - 100): Probability of disease transmission from one individual to another. RECOVERY-CHANCE (10 - 100): Probability of an infected individual to recover once the infection has lasted longer than the person's recovery time. AVERAGE-RECOVERY-TIME (50 - 300): The time it takes for an individual to recover on average. The actual individual's recovery time is pulled from a normal distribution centered around the AVERAGE-RECOVERY-TIME at its mean, with a standard deviation of a quarter of the AVERAGE-RECOVERY-TIME. Each time-step can be considered to be in hours, although any suitable time unit will do.
+
+A number of graphs are also plotted in this model.
+
+CUMULATIVE INFECTED AND RECOVERED: This plots the total percentage of infected and recovered individuals over the course of the disease spread. POPULATIONS: This plots the total number of people with or without the flu over time. INFECTION AND RECOVERY RATES: This plots the estimated rates at which the disease is spreading. BetaN is the rate at which the cumulative infected changes, and Gamma rate at which the cumulative recovered changes. R_0: This is an estimate of the reproduction number, only comparable to the Kermack McKendrick's definition if the initial number of infected were 1.
+
+**THINGS TO NOTICE**
+As with many epidemiological models, the number of people becoming infected over time, in the event of an epidemic, traces out an "S-curve." It is called an S-curve because it is shaped like a sideways S. By changing the values of the parameters using the slider, try to see what kinds of changes make the S curve stretch or shrink.
+
+Whenever there's a spread of the disease that reaches most of the population, we say that there was an epidemic. As mentioned before, the reproduction number indicates the number of secondary infections that arise as a result of introducing one infected person in a totally susceptible population, over the course of the infected person's contagious period (i.e. while the person is infected). If it is greater than 1, an epidemic occurs. If it is less than 1, then it is likely that the disease spread will stop short, and we call this an endemic.
+
 
 {% include links.md %}
