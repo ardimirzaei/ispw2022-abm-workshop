@@ -85,7 +85,10 @@ For every action included for any agent in an ABM, the modeler must define condi
 
 ## Architecture of an ABM
 
+**Text from the paper by Zhang et al. [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9527397&tag=1](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9527397&tag=1)** 
+Zhang, W., Valencia, A., & Chang, N. B. (2021). Synergistic integration between machine learning and agent-based modeling: A multidisciplinary review. *IEEE Transactions on Neural Networks and Learning Systems*.
 
+The microlevel ABM consists of a number of agents. The top-level exhibits the emergence (aggregated behavior characteristics) as the macrolevel in this context. The overall macrolevel system is also sometimes identified as a multiple-agent-system (MAS) since it is comprised of multiple microlevel agents. For example, Le et al. [47] used a land-use dynamic simulator—a MAS model, to assess the socioecological consequences of possible land-use policies based on an ABM approach. Su et al. [48] on the other hand, demonstrated the effectiveness of a selftriggered mechanism for saturated system controller design in a state feedback system for achieving consensus for a MAS, which can be treated like the ABM in the control domain. Even though the term MAS is sometimes used as a synonym for ABM in these research papers, it is more frequently used in the computing domain, such as in computer science and engineering correlated areas. When studying the emergence behavior characteristics of agents, the terms ABM and IBM are more common. 
 
 # Case Study 1 - Hotelling's Law
 
