@@ -82,24 +82,6 @@ To model a complex system we can use a method known as agent-based modelling.
 2. Model Development
 3. Model Validation
 
-> ## Other Model Development Suggestions
-> 
-> **Key Step** | **Description**
-> -------------|---------------
-> 1. Definition of question or goal | Thoroughly consider and spell out the goal that the model will be designed to serve or the specific questions that it will try to answer.
-> 2. Model scope and conceptual design | Identify key concepts, structures, and relationships from the literature and preliminary studies. Determine clearly defined geographic and temporal contexts that are sufficient to achieve research goals.                                                                                        
-> 3. Model specification | Design the model, operationalizing the model “ingredients” identified in the previous step in an implementation-ready way. 
-> 4. Model implementation | Translate the specified model into a computationally operational program. Determine initial model parameter values by using estimates from real-world data and engagement with content domain experts.                                                                                             
-> 5. Analysis|                                                                                        
->   a. Testing and calibration | Test the model against real-world data and, if necessary, iteratively calibrate the model design and parameters. 
->   b. Designing experiments and conducting analysis | Create simulated scenarios that use the model to test hypotheses that are central to the research focus, and interpret their results to explore research questions.    
->   c. Sensitivity analysis | Sweep parameter space to identify key leverage points (i.e., parameter values at which small changes in the system can result in drastic changes in outcomes) and to map the set of assumptions and parameter choices that are inputs into the model onto the set of outcomes that it can produce. 
-> 6. Synthesis and reporting | Combine findings from experiments and sensitivity analysis and interpret conceptually. Compile statistical analyses and visualizations of results that clearly depict and document research procedures and findings.                                                                               
-> 
-{: .solution}
-
-
-
 ## 1. Hypothesis Specification
 
 When designing the ABM we consider the different types of modelling styles.
@@ -162,12 +144,31 @@ Start simple and build up identifying interesting questions along the way (Botto
 - Evaluation the results and connection with the driving question/hypothesis
 - Verification and validation
 
+> ## Other Model Development Suggestions
+> 
+> There many ways to approach the model development process. In the above, we provided a simple suggested approach to get started. While reading the literature on ABM design, many different authors will have suggestion for an approach. Theses are usually based on the industry. As an example, we have inlcuded the table below from a policy development perspective. [Link to table](https://www.ncbi.nlm.nih.gov/books/NBK305917/table/tab_A-1/?report=objectonly). In ecology, for example, is the [ODD protocols](https://ethz.ch/content/dam/ethz/special-interest/usys/ites/ecosystem-management-dam/documents/EducationDOC/EM_DOC/Recommended%20readingDOC/Grimm_2010.pdf), which stands for overview, design concepts, and detail. In their detailed guide, the authors provide substantional information and examples on how to report a model.  
+>
+> **Key Step** | **Description**
+> -------------|---------------
+> 1. Definition of question or goal | Thoroughly consider and spell out the goal that the model will be designed to serve or the specific questions that it will try to answer.
+> 2. Model scope and conceptual design | Identify key concepts, structures, and relationships from the literature and preliminary studies. Determine clearly defined geographic and temporal contexts that are sufficient to achieve research goals.
+> 3. Model specification | Design the model, operationalizing the model “ingredients” identified in the previous step in an implementation-ready way. 
+> 4. Model implementation | Translate the specified model into a computationally operational program. Determine initial model parameter values by using estimates from real-world data and engagement with content domain experts.                                                                                             
+> 5. Analysis|                                                                                        
+>   - Testing and calibration | Test the model against real-world data and, if necessary, iteratively calibrate the model design and parameters. 
+>   - Designing experiments and conducting analysis | Create simulated scenarios that use the model to test hypotheses that are central to the research focus, and interpret their results to explore research questions.
+>   - Sensitivity analysis | Sweep parameter space to identify key leverage points (i.e., parameter values at which small changes in the system can result in drastic changes in outcomes) and to map the set of assumptions and parameter choices that are inputs into the model onto the set of outcomes that it can produce. 
+> 6. Synthesis and reporting | Combine findings from experiments and sensitivity analysis and interpret conceptually. Compile statistical analyses and visualizations of results that clearly depict and document research procedures and findings.                                                                               
+> 
+{: .solution}
 
-# Other Methods for Modelling a Complex System
 
-- System Dynamics
-- Markov Modelling
 
+> ## Other Methods for Modelling a Complex System
+>
+> - System Dynamics
+> - Markov Modelling
+{: .solution}
 
 # References
 1. Bazghandi, A. (2012). Techniques, advantages and problems of agent based modeling for traffic simulation. International Journal of Computer Science Issues (IJCSI), 9(1), 115.
