@@ -6,10 +6,17 @@ questions:
 - "What did we discuss today?"
 objectives:
 - "Summarise and wrap up what was learnt during this workshop"
-keypoints:
-- "Dask builds on numpy and pandas APIs but operates in a parallel manner"
-- "Computations are by default lazy and must be triggered - this reduces unneccessary computation time"
 ---
+
+<blockquote class="keypoints">
+  <h2>Key Points</h2>
+  <ul>
+    {% for keypoint in page.keypoints %}
+    <li>{{ keypoint|markdownify }}</li>
+    {% endfor %}
+  </ul>
+</blockquote>
+
 
 # Complex systems
 
