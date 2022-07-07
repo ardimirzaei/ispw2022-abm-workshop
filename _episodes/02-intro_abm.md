@@ -15,10 +15,13 @@ keypoints:
 
 # Agent-Based Modelling
 
+To model a complex system we can use a method known as agent-based modelling. 
+
+
 > An agent-based model (ABM) is a computational model for simulating the actions and interactions of autonomous agents (both individual or collective entities such as organizations or groups) in order to understand the behavior of a system and what governs its outcomes. 
 > <cite>[Agent-based Model - Wikipedia](https://en.wikipedia.org/wiki/Agent-based_model)</cite>
 
-To model a complex system we can use a method known as agent-based modelling. 
+
 
 ## Architecture of an ABM
 

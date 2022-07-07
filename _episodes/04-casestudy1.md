@@ -6,7 +6,10 @@ questions:
 - "How does preventing pharmacy movement affect price?"
 objectives:
 - "Conduct a simple experiment using an ABM keypoints"
-
+keypoints:
+- "Multi-agent behaviour in pharmacy is a complex system which may be modelled using ABM"
+- "How multiple pharmacies interact within a market can be modelled as a complex system"
+- "Adjustable inputs are geographic location and pricing strategy"
 ---
 
 # Hotelling’s Law
@@ -64,16 +67,15 @@ Each consumer adds up the price and distance from each store, and then chooses t
 > >
 > > **Scenario 2:** We cannot move our pharmacy from its current location (Australian pharmacy location rules)
 > >
-> > - For these scenarios how is revenue affected?
 > {: .solution}
 > 
-> - Speculate what would happen if they were free to move and free to set their prices. 
+ 
 {: .challenge}
 
 > ## Group discussion
-> Try to see how stores behave differently when they are either prohibited from moving or changing their prices.
-> Try increasing the number of stores. Examine how they behave differently and watch which ones are the most successful. What patterns emerge?
-> 
+> - For these scenarios how is revenue affected?
+>
+> - Speculate what would happen if they were free to move and free to set their prices.
 >
 {: .discussion}
 

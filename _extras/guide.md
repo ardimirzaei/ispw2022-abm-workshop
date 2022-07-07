@@ -12,9 +12,10 @@ title: "Instructor Notes"
 ## Episode 2 - Intro to ABM
 
 - Architecture, Building Blocks, Applications (Carl)
-
+- Development of an ABM (Ardi)
 ## Episode 3 - Intro to NetLogo
 
+- NetLogo (Ardi)
 
 ## Episode 4 - Hotellings Law
 

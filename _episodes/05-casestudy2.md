@@ -1,5 +1,5 @@
 ---
-title: "Case Study 2: Modelling an epidemic"
+title: "Bonus Case: Modelling an epidemic"
 teaching: 5
 exercises: 15
 questions:

@@ -8,8 +8,8 @@ objectives:
 - "Increased awareness of the tools used to build ABMs "
 
 keypoints:
-- "What is the advantage of NetLogo"
-- "What are the key features of NetLogo"
+- "NetLogo is simple to use, well supported, and a great starting point  for agent-based modelling"
+- "NetLogo simulations need to be 'setup', then they 'go'"
 - "Ticks can be an arbitary unit of time"
 - "Plots, graphs, numbers can be used to output the results of your model"
 - "Can run multiple simulations using the NetLogo BehaviourSpace feature"
@@ -45,7 +45,7 @@ keypoints:
 > - Setup model and go
 > - Adjust the speed of the model using the model speed (What are ticks?)
 > - Use the sliders to set conditions, the number of agents, their behaviour, their interactions, their external environment. 
-> - thought experiment what type of conditions do we want to set (drought conditions, fertile fields... )
+> - Thought experiment: what type of conditions do we want to set (drought conditions, fertile fields... )
 > - See how they interact and they change, but how do we express the output. 
 > - Run model with 3 agents (change model-version to *sheep-wolves-grass*)
 {: .challenge}
@@ -55,11 +55,12 @@ keypoints:
 
 # Programming Languages
 
-- NetLogo
+- NetLogo (based on Scala)
 - Python
 - Java
 - C
 - R
+
 <br>
 
 >## What software might help you?
