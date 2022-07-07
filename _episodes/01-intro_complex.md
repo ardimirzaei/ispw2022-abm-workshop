@@ -73,8 +73,8 @@ The second concept is ***self-organisation***, which is related to time. A syste
 >The common example of self-organisation is in biology and birds flocking together. While at first their individual movement seems erratic, their collective movement has purpose and direction. The birds may move following each other with no clear leader, yet all the birds together may migrate from one point to another. This collective behaviour is also known as [swarm behaviour](https://en.wikipedia.org/wiki/Swarm_behaviour). 
 > 
 > <figure>
->   <!-- <img src="{{ page.root }}/fig/sayama_complex_system.png" style="margin:10px;width:600px"/> -->
->   <img src="https://42796r1ctbz645bo223zkcdl-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/james-wainscoat-b7MZ6iGIoSI-unsplash-1-e1582822023573-1281x612.png" style="margin:10px;width:600px"/>
+>   <img src="{{ page.root }}/fig/swarms_selforganisation.png" style="margin:10px;width:600px"/>
+>   <!-- <img src="https://42796r1ctbz645bo223zkcdl-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/james-wainscoat-b7MZ6iGIoSI-unsplash-1-e1582822023573-1281x612.png" style="margin:10px;width:600px"/> -->
 >   <figcaption> From the Oxford University Press's Blog on the <a href="https://blog.oup.com/2020/03/the-physics-of-swarm-behaviour/">the physics of swarm behaviour</a> by Helmut Satz.  </figcaption>
 > </figure><br>
 {: .solution}

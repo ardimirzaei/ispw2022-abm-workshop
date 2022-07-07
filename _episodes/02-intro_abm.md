@@ -20,6 +20,14 @@ keypoints:
 
 To model a complex system we can use a method known as agent-based modelling. 
 
+## Architecture of an ABM
+
+<figure>
+  <!-- <img src="{{ page.root }}/fig/sayama_complex_system.png" style="margin:10px;width:600px"/> -->
+  <img src="{{ page.root }}/fig/ABMArchitecture.png" style="margin:10px;width:600px"/>
+  <figcaption> Simple architecture of a multi-agent system. This image was used from the review by <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9527397">Zhang et al. </a></figcaption>
+</figure><br>
+
 ## Building Blocks of an ABM
 
 <figure>
@@ -28,14 +36,6 @@ To model a complex system we can use a method known as agent-based modelling.
   <figcaption> PARTE Framework describing the elements of an agent-based model by <a href="https://www.ncbi.nlm.nih.gov/books/NBK305917/">Hammond </a></figcaption>
 </figure><br>
 
-
-## Architecture of an ABM
-
-<figure>
-  <!-- <img src="{{ page.root }}/fig/sayama_complex_system.png" style="margin:10px;width:600px"/> -->
-  <img src="{{ page.root }}/fig/ABMArchitecture.png" style="margin:10px;width:600px"/>
-  <figcaption> Simple architecture of a multi-agent system. This image was used from the review by <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9527397">Zhang et al. </a></figcaption>
-</figure><br>
 
 
 

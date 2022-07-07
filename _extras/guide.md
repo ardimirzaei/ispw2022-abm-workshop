@@ -2,18 +2,35 @@
 title: "Instructor Notes"
 ---
 
-# Why is an ABM useful for Emergent Phenomna
+# Section Breakdown
 
-**Text from the paper by Bonabeau. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC128598/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC128598/)** 
-Bonabeau, E. (2002). Agent-based modeling: Methods and techniques for simulating human systems. *Proceedings of the national academy of sciences*, 99(suppl_3), 7280-7287.
+## Episode 1 - Intro to Complex Systems
 
-One may want to use ABM when there is potential for emergent phenomena, i.e., when:
-- Individual behavior is nonlinear and can be characterized by thresholds, if-then rules, or nonlinear coupling. Describing discontinuity in individual behavior is difficult with differential equations.
-- Individual behavior exhibits memory, path-dependence, and hysteresis, non-markovian behavior, or temporal correlations, including learning and adaptation.
-- Agent interactions are heterogeneous and can generate network effects. Aggregate flow equations usually assume global homogeneous mixing, but the topology of the interaction network can lead to significant deviations from predicted aggregate behavior.
-- Averages will not work. Aggregate differential equations tend to smooth out fluctuations, not ABM, which is important because under certain conditions, fluctuations can be amplified: the system is linearly stable but unstable to larger perturbations.
+- Intro, Emergence, Self-Organisation, Navigating the cite (Ardi)
+- Discussion (Carl)
+
+## Episode 2 - Intro to ABM
+
+- Architecture, Building Blocks, Applications (Carl)
+
+## Episode 3 - Intro to NetLogo
+
+
+## Episode 4 - Hotellings Law
+
+## Episode 5 - EpiDEM
+
+## Summary and Wrap
+
 
 # Introduction to ABM
+
+## Architecture of an ABM
+
+**Text from the paper by Zhang et al. [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9527397&tag=1](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9527397&tag=1)** 
+Zhang, W., Valencia, A., & Chang, N. B. (2021). Synergistic integration between machine learning and agent-based modeling: A multidisciplinary review. *IEEE Transactions on Neural Networks and Learning Systems*.
+
+The microlevel ABM consists of a number of agents. The top-level exhibits the emergence (aggregated behavior characteristics) as the macrolevel in this context. The overall macrolevel system is also sometimes identified as a multiple-agent-system (MAS) since it is comprised of multiple microlevel agents. For example, Le et al. [47] used a land-use dynamic simulator—a MAS model, to assess the socioecological consequences of possible land-use policies based on an ABM approach. Su et al. [48] on the other hand, demonstrated the effectiveness of a selftriggered mechanism for saturated system controller design in a state feedback system for achieving consensus for a MAS, which can be treated like the ABM in the control domain. Even though the term MAS is sometimes used as a synonym for ABM in these research papers, it is more frequently used in the computing domain, such as in computer science and engineering correlated areas. When studying the emergence behavior characteristics of agents, the terms ABM and IBM are more common. 
 
 
 ## Building Blocks of an ABM 
@@ -83,12 +100,17 @@ For every action included for any agent in an ABM, the modeler must define condi
 {: .solution}
 
 
-## Architecture of an ABM
+## Why is an ABM useful for Emergent Phenomna
 
-**Text from the paper by Zhang et al. [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9527397&tag=1](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9527397&tag=1)** 
-Zhang, W., Valencia, A., & Chang, N. B. (2021). Synergistic integration between machine learning and agent-based modeling: A multidisciplinary review. *IEEE Transactions on Neural Networks and Learning Systems*.
+**Text from the paper by Bonabeau. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC128598/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC128598/)** 
+Bonabeau, E. (2002). Agent-based modeling: Methods and techniques for simulating human systems. *Proceedings of the national academy of sciences*, 99(suppl_3), 7280-7287.
 
-The microlevel ABM consists of a number of agents. The top-level exhibits the emergence (aggregated behavior characteristics) as the macrolevel in this context. The overall macrolevel system is also sometimes identified as a multiple-agent-system (MAS) since it is comprised of multiple microlevel agents. For example, Le et al. [47] used a land-use dynamic simulator—a MAS model, to assess the socioecological consequences of possible land-use policies based on an ABM approach. Su et al. [48] on the other hand, demonstrated the effectiveness of a selftriggered mechanism for saturated system controller design in a state feedback system for achieving consensus for a MAS, which can be treated like the ABM in the control domain. Even though the term MAS is sometimes used as a synonym for ABM in these research papers, it is more frequently used in the computing domain, such as in computer science and engineering correlated areas. When studying the emergence behavior characteristics of agents, the terms ABM and IBM are more common. 
+One may want to use ABM when there is potential for emergent phenomena, i.e., when:
+- Individual behavior is nonlinear and can be characterized by thresholds, if-then rules, or nonlinear coupling. Describing discontinuity in individual behavior is difficult with differential equations.
+- Individual behavior exhibits memory, path-dependence, and hysteresis, non-markovian behavior, or temporal correlations, including learning and adaptation.
+- Agent interactions are heterogeneous and can generate network effects. Aggregate flow equations usually assume global homogeneous mixing, but the topology of the interaction network can lead to significant deviations from predicted aggregate behavior.
+- Averages will not work. Aggregate differential equations tend to smooth out fluctuations, not ABM, which is important because under certain conditions, fluctuations can be amplified: the system is linearly stable but unstable to larger perturbations.
+
 
 # Case Study 1 - Hotelling's Law
 
