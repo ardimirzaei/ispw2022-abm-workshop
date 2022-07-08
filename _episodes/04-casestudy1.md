@@ -68,8 +68,7 @@ Each consumer adds up the price and distance from each store and then chooses to
 > > **Scenario 2:** We cannot move our pharmacy from its current location (Australian pharmacy location rules)
 > >
 > {: .solution}
-> 
- 
+>  
 {: .challenge}
 
 > ## Group discussion
