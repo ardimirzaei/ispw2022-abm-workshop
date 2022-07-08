@@ -3,16 +3,16 @@ title: "Introduction to NetLogo "
 teaching: 5
 exercises: 5
 questions:
-- "What are the different tools used to build ABMs"
+- "What are the different tools used to build ABMs."
 objectives:
-- "Increased awareness of the tools used to build ABMs "
+- "Increased awareness of the tools used to build ABMs."
 
 keypoints:
-- "NetLogo is simple to use, well supported, and a great starting point  for agent-based modelling"
+- "NetLogo is simple to use, well supported, and a great starting point  for agent-based modelling."
 - "NetLogo simulations need to be 'setup', then they 'go'"
-- "Ticks can be an arbitary unit of time"
-- "Plots, graphs, numbers can be used to output the results of your model"
-- "Can run multiple simulations using the NetLogo BehaviourSpace feature"
+- "Ticks can be an arbitrary unit of time."
+- "Plots, graphs, and numbers can be used to output the results of your model."
+- "Can run multiple simulations using the NetLogo BehaviourSpace feature."
 
 ---
 
@@ -42,11 +42,11 @@ keypoints:
 > [Sheep and Wolf Predation](http://www.netlogoweb.org/launch#http://ccl.northwestern.edu/netlogo/models/models/Sample%20Models/Biology/Wolf%20Sheep%20Predation.nlogo)
 >
 > - What do the sliders do
-> - Setup model and go
+> - Setup the model and go
 > - Adjust the speed of the model using the model speed (What are ticks?)
-> - Use the sliders to set conditions, the number of agents, their behaviour, their interactions, their external environment. 
+> - Use the sliders to set conditions, the number of agents, their behaviour, their interactions, and their external environment. 
 > - Thought experiment: what type of conditions do we want to set (drought conditions, fertile fields... )
-> - See how they interact and they change, but how do we express the output. 
+> - See how they interact and change, but how do we express the output. 
 > - Run model with 3 agents (change model-version to *sheep-wolves-grass*)
 {: .challenge}
 

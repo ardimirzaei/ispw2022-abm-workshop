@@ -19,9 +19,62 @@ title: "Instructor Notes"
 
 ## Episode 4 - Hotellings Law
 
+- Hotellings Law (Ardi)
+
 ## Episode 5 - EpiDEM
 
+- If time, EpiDEM (Carl)
+
 ## Summary and Wrap
+
+- Summary Carl
+
+# Quick Notes
+
+### Welcome and Sit down 
+
+*Start at 5 past the starting time*
+
+- Give website link. QR code?
+- Show buttons, get started
+
+
+### Episode 1
+
+- little blurb about Complex systems (remind that systems are three types, simple, complicated and complex)
+	- simple (effect based on cause)
+	- complicated (have multiple rules, algorithms and causes. generally linear, and predictable)
+	- But a complex system has a couple extra features (emergence and self organisation), but no longer has a direct causal effect which is a feature of simple or complicated model. 
+- talk about emergence and self organistion
+- how to navigate the site. 
+- ask what are some real world example of Complex systems, and are there any in pharmacy?
+
+### Episode 2
+
+- multiple ways to model complex systems today we look at abm
+	- indivial agents with each other with an external environment
+	- 
+
+- development steps
+
+### Episode 3 
+
+- little about the benefits of ABM?
+- Show the model
+
+### Episode 4
+
+- Ardi to Start
+- Carl to do Activites and discussion
+
+### Episode 5
+
+- If time Carl
+
+### Summary and Wrap 
+
+- Carl
+
 
 
 # Introduction to ABM
