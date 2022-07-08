@@ -82,4 +82,4 @@ Each consumer adds up the price and distance from each store, and then chooses t
 
 # Further reading
 
-- [CVS and Walgreens](https://www.startribune.com/nation-s-biggest-pharmacies-sidle-right-up-to-each-other/176188911/)
+- [CVS and Walgreens](/files/cvs_vs_walgreens.pdf), original article is from the [StarTribune](https://www.startribune.com/nation-s-biggest-pharmacies-sidle-right-up-to-each-other/176188911/)
