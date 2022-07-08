@@ -3,7 +3,7 @@ title: "Bonus Case: Modelling an epidemic"
 teaching: 5
 exercises: 15
 questions:
-- "Can we model the effects of a pandemic?"
+- "Can we model the effects of a epidemic?"
 objectives:
 - "Conduct a simple experiment using an ABM"
 keypoints:

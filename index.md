@@ -23,7 +23,7 @@ By the end of this workshop, participants will be able to:
 -	Hotelling, Harold. (1929). "Stability in Competition." The Economic Journal 39.153: 41 -57. (Stable URL: [https://www.jstor.org/stable/2224214](https://www.jstor.org/stable/2224214).
 -	C. Macal and M. North, "Introductory tutorial: Agent-based modeling and simulation," Proceedings of the Winter Simulation Conference 2014, 2014, pp. 6-20, doi: 10.1109/WSC.2014.7019874. ([https://ieeexplore.ieee.org/document/7019874](https://ieeexplore.ieee.org/document/7019874))
 
-This workshop will utilize NetLogo to demonstrate the agent-based modelling. Attendees do not need to download NetLogo to partake in this class. The models are available to be run on the NetLogo Web: [https://ccl.northwestern.edu/netlogo/](https://ccl.northwestern.edu/netlogo/)
+This workshop will utilize NetLogo to demonstrate the agent-based modelling. Attendees do not need to download NetLogo to participate in this workshop. The models are available to be run on the NetLogo Web: [https://ccl.northwestern.edu/netlogo/](https://ccl.northwestern.edu/netlogo/)
 A user guide to NetLogo: [http://www.intro-to-abm.com/](http://www.intro-to-abm.com/)  
 
 ## References
