@@ -8,25 +8,26 @@ objectives:
 - "Summarise and wrap up what was learnt during this workshop"
 ---
 
-<blockquote class="keypoints">
-  <h2>Key Points</h2>
-  <ul>
-    {% for keypoint in page.keypoints %}
-    <li>{{ keypoint|markdownify }}</li>
-    {% endfor %}
-  </ul>
-</blockquote>
+<h2>Key Points</h2>
+<table class="table table-striped">
+{% for episode in site.episodes %}
+  {% unless episode.break %}
+    <tr>
+      <td class="col-md-3">
+        <a href="{{ page.root }}{{ episode.url }}">{{ episode.title }}</a>
+      </td>
+      <td class="col-md-9">
+        <ul>
+        {% for keypoint in episode.keypoints %}
+        <li>{{ keypoint|markdownify }}</li>
+        {% endfor %}
+        </ul>
+      </td>
+    </tr>
+  {% endunless %}
+{% endfor %}
+</table>
 
-
-# Complex systems
-
-# Agent based models
-
-# Future applications for pharmacy and 
-
-- Different Scenarios that we don't have ABM for
-	- Information Seeking Behaviour --> modify for examples. 
-
-> # Question to audience 
+> ## Question to audience 
 > - how might you want to apply this in the future
 {: .discussion}
