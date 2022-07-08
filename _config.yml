@@ -10,7 +10,7 @@ port: 4003
 carpentry: "sih"
 
 # Overall title for pages.
-title: "Using Agent-Based Models to Simulate Behavior: An introductory workshop"
+title: "Using Agent-Based Models to Simulate Behaviour: An introductory workshop"
 series_name: "ISPW2022"
 
 #------------------------------------------------------------
