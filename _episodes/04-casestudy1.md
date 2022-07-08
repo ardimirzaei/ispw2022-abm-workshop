@@ -35,10 +35,10 @@ Hotelling’s Law is an economic obersvation that producers in a market will mak
   <img src="{{ page.root }}/fig/pharmacy_brands_aus.png" style="margin:10px;width:600px"/>
 </figure><br>
 <figure>
-  <img src="https://blog.mylocumchoice.com/wp-content/uploads/2021/06/image0-1024x482.png" style="margin:10px;width:600px"/>
+  <img src="{{ page.root }}/fig/pharmacy_brands_uk.png" style="margin:10px;width:600px"/>
 </figure><br>
 <figure>
-  <img src="http://3.bp.blogspot.com/-bH_dG-UG9ro/VKf7Z2sVFSI/AAAAAAAAAsQ/f6CkaFduQjE/s1600/pharmacy-logos.jpg" style="margin:10px;width:600px"/>
+  <img src="{{ page.root }}/fig/pharmacy_brands_us.jpg" style="margin:10px;width:600px"/>
   <figcaption> Pharmacy Brands. Images sourced from Google Images.</figcaption>
 </figure><br>
 

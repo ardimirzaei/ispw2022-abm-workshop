@@ -19,7 +19,7 @@ keypoints:
 # NetLogo
 
 <figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Netlogo-ui.png" style="margin:10px;width:600px"/>
+  <img src="{{ page.root }}/fig/Netlogo-ui.png" style="margin:10px;width:600px"/>
   <figcaption> Example View of the Netlogo Application</figcaption>
 </figure><br>
 

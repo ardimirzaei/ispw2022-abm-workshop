@@ -75,8 +75,8 @@ To model a complex system we can use a method known as agent-based modelling.
 
 
 <figure>
-  <!-- <img src="{{ page.root }}/fig/sayama_complex_system.png" style="margin:10px;width:600px"/> -->
-  <img src="https://www.researchgate.net/profile/Mauricio-Salgado/publication/259335210/figure/fig1/AS:297057723142144@1447835488456/Main-steps-and-stages-to-build-an-agent-based-model.png" style="margin:10px;width:600px"/>
+  <img src="{{ page.root }}/fig/Main-steps-and-stages-to-build-an-agent-based-model.png" style="margin:10px;width:600px"/>
+  <!-- <img src="https://www.researchgate.net/profile/Mauricio-Salgado/publication/259335210/figure/fig1/AS:297057723142144@1447835488456/Main-steps-and-stages-to-build-an-agent-based-model.png" style="margin:10px;width:600px"/> -->
   <figcaption> Steps involved in building and agent-based model. This image is from the chapter on <a href="https://link.springer.com/chapter/10.1007/978-94-6209-404-8_12">Agent-Based Modelling </a> and was sourced from the authors <a href="https://www.researchgate.net/profile/Mauricio-Salgado">Research Gate Profile</a>.</figcaption>
 </figure><br>
 

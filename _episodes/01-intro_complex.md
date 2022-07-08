@@ -29,8 +29,8 @@ Complex systems contain linear and non-linear interacting components. These syst
 
 
 <figure>
-  <!-- <img src="{{ page.root }}/fig/sayama_complex_system.png" style="margin:10px;width:600px"/> -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Complex_systems_organizational_map.jpg" style="margin:10px;width:600px"/>
+  <img src="{{ page.root }}/fig/sayama_complex_system.png" style="margin:10px;width:600px"/>
+  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Complex_systems_organizational_map.jpg" style="margin:10px;width:600px"/> -->
   <figcaption> Topic clusters that constitute complex systems. This image is available in the <a href="https://open.umn.edu/opentextbooks/textbooks/233">book by Sayama</a> and from <a href="https://en.wikipedia.org/wiki/Complex_system">Wikipedia</a>.  </figcaption>
 </figure><br>
 

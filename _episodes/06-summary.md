@@ -1,6 +1,6 @@
 ---
 title: "Summary and Wrap"
-teaching: 10
+teaching: 5
 exercises: 0
 questions:
 - "What did we discuss today?"
@@ -29,5 +29,5 @@ objectives:
 </table>
 
 > ## Question to audience 
-> - how might you want to apply this in the future
+> - How might you want to apply this in the future
 {: .discussion}
