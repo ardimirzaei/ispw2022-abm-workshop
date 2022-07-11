@@ -9,7 +9,7 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 Modelling complex, interrelated and interacting components of human behaviour are challenging. A complex-system modelling approach through agent-based modelling (ABM) can help address the challenge. ABM's allow a user to model individual behaviours that can lead to population-level effects (Silverman et al., 2021). ABM's allow for the interaction of individual agents, within an environment. Simple ABM's involve agents that behaviour similarly. ABMs may also be developed with heterogenous agents. Manipulation of microspecifications allows researchers to use an ABM to explore how agent interaction and reaction to the environment lead to macroscopic outcomes. Accordingly, ABMs can be used experimentally to falsify hypothesised mechanisms that bring about observed system outcomes, thereby facilitating the theory development of human behaviour.
 <figure>
   <img src="{{ page.root }}/fig/website_qr_code.png" style="margin:10px;width:200px;height:200px;" align="right"/>
-  <figcaption>Scan QR Code for link to this </figcaption>
+  <figcaption>Scan QR Code for link to this page</figcaption>
 </figure><br>
 
 ## Aim
