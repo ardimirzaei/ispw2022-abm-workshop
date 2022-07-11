@@ -83,4 +83,6 @@ Each consumer adds up the price and distance from each store and then chooses to
 
 - [CVS and Walgreens]({{page.root}}/files/cvs_vs_walgreens.pdf), original article is from the [StarTribune](https://www.startribune.com/nation-s-biggest-pharmacies-sidle-right-up-to-each-other/176188911/)
 
-# Further reading
+# References
+
+- Ottino, B., Stonedahl, F. and Wilensky, U. (2009). NetLogo Hotelling's Law model. http://ccl.northwestern.edu/netlogo/models/Hotelling'sLaw. Center for Connected Learning and Computer-Based Modeling, Northwestern University, Evanston, IL.
