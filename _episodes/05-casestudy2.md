@@ -22,29 +22,35 @@ Because this model is so simplistic in nature, it facilitates mathematical analy
 This model incorporates all of the above assumptions, but each individual has a 5% chance of being initialized as infected. This model shows the disease spread as a phenomenon with an element of stochasticity. Small perturbations in the parameters included here can in fact lead to different final outcomes.
 
 Overall, this model helps users:
-1) engage in a new way of viewing/modeling epidemics that is more personable and relatable 
-2) understand how the reproduction number, R0, represents the threshold for an epidemic 
-3) think about different ways to calculate R0, and the strengths and weaknesses in each approach 
-4) understand the relationship between derivatives and integrals, represented simply as rates and cumulative number of cases, and 
-5) provide opportunities to extend or change the model to include some properties of a disease that interest users the most.
+1. engage in a new way of viewing/modeling epidemics that is more personable and relatable 
+2. understand how the reproduction number, R0, represents the threshold for an epidemic 
+3. think about different ways to calculate R0, and the strengths and weaknesses in each approach 
+4. understand the relationship between derivatives and integrals, represented simply as rates and cumulative number of cases, and 
+5. provide opportunities to extend or change the model to include some properties of a disease that interest users the most.
 
 # Applications to Pharmacy
 
-- model disease spread
-- 
+- Disease state modelling (infection control)
+- Adpated to model diffusion of innovation e.g. the use of electronic drug registers?
 
 
 # NetLogo Model
 
 
 [Run application on the Web](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Curricular%20Models/epiDEM/epiDEM%20Basic.nlogo)
-*Alternative, if you are still in the web appilication, search for the model:* ***epiDEM Basic*** *in Model Library*
+*Alternative, if you are still in the web application, search for the model: ***epiDEM Basic*** *in Model Library*
 
 
-## Activities
+> ## Activities
+> - Try running the model by varying one slider at a time. For example: How does increasing the number of initial people affect the disease spread? 
+> How does increasing the recovery chance the shape of the graphs? What about changes to average recovery time? Or the infection rate?
+> - What happens to the shape of the graphs as you increase the recovery chance and decrease the recovery time? Vice versa?
+> - Notice the graph Cumulative Infected and Recovered, and Infection and Recovery Rates. What are the relationships between the two? Why is the latter graph jagged?
+>>
+>
+{: .challenge}
 
->
->
->
->
-{: .discussion}
+
+# References
+
+- Yang, C. and Wilensky, U. (2011). NetLogo epiDEM Basic model. http://ccl.northwestern.edu/netlogo/models/epiDEMBasic. Center for Connected Learning and Computer-Based Modeling, Northwestern University, Evanston, IL.
