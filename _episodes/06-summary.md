@@ -31,3 +31,10 @@ objectives:
 > ## Question to audience 
 > - How might you want to apply this in the future
 {: .discussion}
+
+
+> ## Course survey!
+>
+> **_Please_** fill out our **[course survey](https://sydney.au1.qualtrics.com/jfe/form/SV_9BvEIVKTpgQSRx4)** before you leave!
+>
+{: .testimonial}
