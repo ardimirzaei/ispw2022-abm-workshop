@@ -49,7 +49,7 @@ Silverman, E., Gostoli, U., Picascia, S., Almagor, J., McCann, M., Shaw, R., & A
 
 > ## Course survey!
 >
-> **_Please_** fill out our **[course survey](https://redcap.sydney.edu.au/surveys/?s=FJ33MYNCRR)** before you leave!
+> **_Please_** fill out our **[course survey](https://sydney.au1.qualtrics.com/jfe/form/SV_9BvEIVKTpgQSRx4)** before you leave!
 >
 {: .testimonial}
 
